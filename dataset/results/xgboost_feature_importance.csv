@@ -1,0 +1,112 @@
+feature,importance
+provinsi_Kalimantan Selatan,0.19144477
+provinsi_Kalimantan Barat,0.16625583
+provinsi_Kalimantan Timur,0.08406905
+provinsi_Kalimantan Tengah,0.052881915
+PRECTOTCORR_sum_MH,0.039314825
+nama_wilayah_bersih_Murung Raya,0.029655064
+nama_wilayah_bersih_Landak,0.023088621
+RH2M_mean_MH,0.01723137
+RH2M_max_MK,0.0146408435
+nama_wilayah_bersih_Tarakan,0.013675718
+PRECTOTCORR_std_tahun,0.012848272
+T2M_max_MK,0.012650005
+T2M_std_tahun,0.012254809
+T2M_mean_MK,0.011910682
+nama_wilayah_bersih_Kapuas,0.011349343
+nama_wilayah_bersih_Barito Timur,0.011323902
+PRECTOTCORR_min_MK,0.010364147
+nama_wilayah_bersih_Hulu Sungai Selatan,0.010323919
+PRECTOTCORR_mean_MH,0.009478181
+nama_wilayah_bersih_Gunung Mas,0.008283222
+RH2M_min_MH,0.007916986
+T2M_min_MH,0.007901718
+nama_wilayah_bersih_Seruyan,0.0077366023
+T2M_mean_MH,0.007650546
+nama_wilayah_bersih_Berau,0.007386828
+jumlah_hari_hujan_ekstrem_tahun,0.006920976
+PRECTOTCORR_sum_MH_lag1,0.0067799706
+T2M_std_MH,0.0066866046
+max_consecutive_dry_MK_lag1,0.006670322
+nama_wilayah_bersih_Sanggau,0.006656321
+T2M_mean_tahun,0.0063412357
+jumlah_hari_hujan_MH,0.006241474
+RH2M_std_MK,0.0058990167
+RH2M_mean_MK,0.0056180633
+T2M_min_MK,0.0056113675
+max_consecutive_wet_MH,0.0055231806
+jumlah_hari_hujan_MK,0.00526515
+T2M_mean_tahun_lag1,0.005202339
+RH2M_std_tahun,0.0051961914
+T2M_max_MH,0.004819526
+nama_wilayah_bersih_Penajam Paser Utara,0.004760938
+provinsi_Kalimantan Utara,0.00462953
+nama_wilayah_bersih_Palangka Raya,0.004406423
+nama_wilayah_bersih_Sambas,0.0043827025
+RH2M_max_MH,0.004314838
+T2M_max_tahun,0.0042342027
+PRECTOTCORR_sum_tahun,0.004164303
+RH2M_std_MH,0.0040220036
+PRECTOTCORR_std_MK,0.0039230655
+PRECTOTCORR_sum_MK_lag1,0.0038399526
+PRECTOTCORR_min_MH,0.0035895228
+nama_wilayah_bersih_Kotawaringin Barat,0.0034895586
+nama_wilayah_bersih_Tana Tidung,0.003405044
+T2M_min_tahun,0.0032411588
+luas_panen_ha,0.0030828796
+max_consecutive_dry_MK,0.003061542
+PRECTOTCORR_mean_MK,0.0030329628
+jumlah_hari_hujan_ekstrem_tahun_lag1,0.0030274068
+PRECTOTCORR_max_MK,0.0028790873
+RH2M_min_MK,0.0028436643
+nama_wilayah_bersih_Katingan,0.0026936748
+nama_wilayah_bersih_Paser,0.0026022717
+nama_wilayah_bersih_Mahakam Ulu,0.002599874
+RH2M_mean_tahun,0.0025896446
+range_suhu_tahun,0.0025240015
+T2M_std_MK,0.0024749432
+nama_wilayah_bersih_Tabalong,0.0024723196
+PRECTOTCORR_mean_tahun,0.002380023
+nama_wilayah_bersih_Barito Kuala,0.0022130066
+nama_wilayah_bersih_Banjarbaru,0.0022065062
+is_micro_area,0.0021239065
+nama_wilayah_bersih_Hulu Sungai Utara,0.0021036942
+PRECTOTCORR_std_MH,0.0020452486
+nama_wilayah_bersih_Lamandau,0.0019699705
+nama_wilayah_bersih_Sukamara,0.0017427291
+tipe_wilayah_Kota,0.001728251
+nama_wilayah_bersih_Banjar,0.0016959457
+nama_wilayah_bersih_Balangan,0.0015959416
+nama_wilayah_bersih_Malinau,0.0015767288
+tipe_wilayah_Kabupaten,0.0014789781
+PRECTOTCORR_max_MH,0.0013878461
+nama_wilayah_bersih_Sekadau,0.0013503609
+PRECTOTCORR_sum_MK,0.0011481344
+nama_wilayah_bersih_Tapin,0.000920679
+nama_wilayah_bersih_Kubu Raya,0.0009052884
+nama_wilayah_bersih_Tanah Laut,0.0007397726
+nama_wilayah_bersih_Tanah Bumbu,0.0007089187
+nama_wilayah_bersih_Hulu Sungai Tengah,0.00067956024
+nama_wilayah_bersih_Pontianak,0.0006445821
+nama_wilayah_bersih_Kutai Barat,0.0005641245
+nama_wilayah_bersih_Sintang,0.0005570602
+nama_wilayah_bersih_Samarinda,0.0004752286
+nama_wilayah_bersih_Kutai Kartanegara,0.0004549012
+nama_wilayah_bersih_Barito Selatan,0.00044648506
+nama_wilayah_bersih_Barito Utara,0.0004302598
+nama_wilayah_bersih_Pulang Pisau,0.00025026046
+nama_wilayah_bersih_Kayong Utara,0.00011934282
+nama_wilayah_bersih_Bontang,0.0
+nama_wilayah_bersih_Singkawang,0.0
+nama_wilayah_bersih_Bulungan,0.0
+nama_wilayah_bersih_Kapuas Hulu,0.0
+nama_wilayah_bersih_Balikpapan,0.0
+nama_wilayah_bersih_Kotawaringin Timur,0.0
+nama_wilayah_bersih_Ketapang,0.0
+nama_wilayah_bersih_Banjarmasin,0.0
+nama_wilayah_bersih_Mempawah,0.0
+nama_wilayah_bersih_Melawi,0.0
+nama_wilayah_bersih_Bengkayang,0.0
+nama_wilayah_bersih_Kotabaru,0.0
+nama_wilayah_bersih_Kutai Timur,0.0
+nama_wilayah_bersih_Nunukan,0.0

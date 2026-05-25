@@ -1,0 +1,112 @@
+kabupaten_kota_asli,tahun,actual,prediction_xgb
+Kab. Balangan,2024,36.24,36.67737
+Kab. Balangan,2025,38.35,40.38488
+Kota Balikpapan,2024,25.34,37.170856
+Kota Balikpapan,2025,39.36,33.589798
+Kab. Banjar,2024,37.79,37.490322
+Kab. Banjar,2025,38.2,37.205578
+Kota Banjarbaru,2024,31.17,32.1921
+Kota Banjarbaru,2025,29.78,32.866344
+Kota Banjarmasin,2024,42.57,34.595333
+Kota Banjarmasin,2025,43.87,37.838665
+Kab. Barito Kuala,2024,37.36,34.105434
+Kab. Barito Kuala,2025,35.49,33.71626
+Kab. Barito Selatan,2024,35.49,32.35256
+Kab. Barito Selatan,2025,31.27,28.533031
+Kab. Barito Timur,2024,34.9,26.022974
+Kab. Barito Timur,2025,38.17,27.69416
+Kab. Barito Utara,2024,23.79,24.73676
+Kab. Barito Utara,2025,25.69,22.4608
+Kab. Bengkayang,2024,30.57,28.529455
+Kab. Bengkayang,2025,28.32,28.39285
+Kab. Berau,2024,29.42,32.194183
+Kab. Berau,2025,38.24,29.418358
+Kota Bontang,2025,29.39,35.4504
+Kab. Bulungan,2024,35.91,34.90484
+Kab. Bulungan,2025,36.35,33.073772
+Kab. Gunung Mas,2024,27.65,26.966982
+Kab. Gunung Mas,2025,20.51,25.87363
+Kab. Hulu Sungai Selatan,2024,47.11,40.524117
+Kab. Hulu Sungai Selatan,2025,47.26,40.628704
+Kab. Hulu Sungai Tengah,2024,47.53,47.79
+Kab. Hulu Sungai Tengah,2025,44.51,45.5
+Kab. Hulu Sungai Utara,2024,52.29,48.505432
+Kab. Hulu Sungai Utara,2025,55.68,44.059948
+Kab. Kapuas,2024,30.67,35.168766
+Kab. Kapuas,2025,33.16,31.389444
+Kab. Kapuas Hulu,2024,27.94,29.868122
+Kab. Kapuas Hulu,2025,22.25,28.175943
+Kab. Katingan,2024,33.26,30.33606
+Kab. Katingan,2025,32.01,28.456547
+Kab. Kayong Utara,2024,34.25,28.145992
+Kab. Kayong Utara,2025,34.33,29.969946
+Kab. Ketapang,2024,36.56,32.5879
+Kab. Ketapang,2025,36.53,33.54687
+Kab. Kotabaru,2024,39.89,36.684116
+Kab. Kotabaru,2025,40.06,38.3719
+Kab. Kotawaringin Barat,2024,33.04,32.11109
+Kab. Kotawaringin Barat,2025,38.06,32.810013
+Kab. Kotawaringin Timur,2024,32.46,30.065351
+Kab. Kotawaringin Timur,2025,33.51,29.078022
+Kab. Kubu Raya,2024,27.11,30.288187
+Kab. Kubu Raya,2025,30.11,29.699657
+Kab. Kutai Barat,2024,30.01,29.577328
+Kab. Kutai Barat,2025,30.61,30.755198
+Kab. Kutai Kartanegara,2024,40.93,39.133278
+Kab. Kutai Kartanegara,2025,42.18,31.850237
+Kab. Kutai Timur,2024,36.78,35.398285
+Kab. Kutai Timur,2025,36.12,34.36993
+Kab. Lamandau,2024,27.61,26.174927
+Kab. Lamandau,2025,29.76,27.660692
+Kab. Landak,2024,31.09,31.483662
+Kab. Landak,2025,27.89,29.838022
+Kab. Mahakam Ulu,2024,24.07,32.29854
+Kab. Mahakam Ulu,2025,36.36,31.318731
+Kab. Malinau,2024,37.51,38.73606
+Kab. Malinau,2025,41.47,33.659035
+Kab. Melawi,2024,27.11,27.975912
+Kab. Melawi,2025,21.75,27.468756
+Kab. Mempawah,2024,35.2,31.56257
+Kab. Mempawah,2025,33.77,33.824047
+Kab. Murung Raya,2024,16.94,18.494102
+Kab. Murung Raya,2025,12.54,19.319742
+Kab. Nunukan,2024,36.31,39.00136
+Kab. Nunukan,2025,36.57,34.196888
+Kota Palangka Raya,2024,31.9,31.39174
+Kota Palangka Raya,2025,37.5,27.630398
+Kab. Paser,2024,46.63,38.101974
+Kab. Paser,2025,46.34,35.36174
+Kab. Penajam Paser Utara,2024,36.37,32.78613
+Kab. Penajam Paser Utara,2025,35.06,30.96134
+Kota Pontianak,2024,27.86,29.92022
+Kota Pontianak,2025,33.01,28.69014
+Kab. Pulang Pisau,2024,38.7,30.922089
+Kab. Pulang Pisau,2025,40.87,30.345997
+Kota Samarinda,2024,42.44,38.813313
+Kota Samarinda,2025,41.42,32.585686
+Kab. Sambas,2024,30.45,27.924494
+Kab. Sambas,2025,30.03,26.680475
+Kab. Sanggau,2024,25.64,25.31843
+Kab. Sanggau,2025,22.76,26.711006
+Kab. Sekadau,2024,31.8,29.863554
+Kab. Sekadau,2025,27.04,32.92225
+Kab. Seruyan,2024,30.08,25.684492
+Kab. Seruyan,2025,27.6,26.408215
+Kota Singkawang,2024,36.39,31.81512
+Kota Singkawang,2025,32.71,32.82928
+Kab. Sintang,2024,28.29,27.70944
+Kab. Sintang,2025,22.12,30.961485
+Kab. Sukamara,2024,28.55,27.474606
+Kab. Sukamara,2025,38.03,28.919313
+Kab. Tabalong,2024,47.29,41.711136
+Kab. Tabalong,2025,47.68,39.746964
+Kab. Tana Tidung,2024,32.42,34.588913
+Kab. Tana Tidung,2025,33.88,31.1188
+Kab. Tanah Bumbu,2024,40.26,38.996666
+Kab. Tanah Bumbu,2025,42.5,38.856014
+Kab. Tanah Laut,2024,42.73,37.49218
+Kab. Tanah Laut,2025,40.92,37.97106
+Kab. Tapin,2024,41.46,40.865868
+Kab. Tapin,2025,42.43,40.270576
+Kota Tarakan,2024,32.0,32.523304
+Kota Tarakan,2025,31.45,32.72525

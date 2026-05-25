@@ -1,7 +1,7 @@
-dataset/
-!dataset/artifacts
-!dataset/output_pipeline
-!dataset/models
-!dataset/results
+dataset/*
+!dataset/artifacts/
+!dataset/output_pipeline/
+!dataset/models/
+!dataset/results/
 *.txt
 Exploratory-Data-Analysis.ipynb

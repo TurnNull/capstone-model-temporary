@@ -1,112 +1,894 @@
-kabupaten_kota_asli,tahun,actual,prediction_xgb
-Kab. Balangan,2024,36.24,36.67737
-Kab. Balangan,2025,38.35,40.38488
-Kota Balikpapan,2024,25.34,37.170856
-Kota Balikpapan,2025,39.36,33.589798
-Kab. Banjar,2024,37.79,37.490322
-Kab. Banjar,2025,38.2,37.205578
-Kota Banjarbaru,2024,31.17,32.1921
-Kota Banjarbaru,2025,29.78,32.866344
-Kota Banjarmasin,2024,42.57,34.595333
-Kota Banjarmasin,2025,43.87,37.838665
-Kab. Barito Kuala,2024,37.36,34.105434
-Kab. Barito Kuala,2025,35.49,33.71626
-Kab. Barito Selatan,2024,35.49,32.35256
-Kab. Barito Selatan,2025,31.27,28.533031
-Kab. Barito Timur,2024,34.9,26.022974
-Kab. Barito Timur,2025,38.17,27.69416
-Kab. Barito Utara,2024,23.79,24.73676
-Kab. Barito Utara,2025,25.69,22.4608
-Kab. Bengkayang,2024,30.57,28.529455
-Kab. Bengkayang,2025,28.32,28.39285
-Kab. Berau,2024,29.42,32.194183
-Kab. Berau,2025,38.24,29.418358
-Kota Bontang,2025,29.39,35.4504
-Kab. Bulungan,2024,35.91,34.90484
-Kab. Bulungan,2025,36.35,33.073772
-Kab. Gunung Mas,2024,27.65,26.966982
-Kab. Gunung Mas,2025,20.51,25.87363
-Kab. Hulu Sungai Selatan,2024,47.11,40.524117
-Kab. Hulu Sungai Selatan,2025,47.26,40.628704
-Kab. Hulu Sungai Tengah,2024,47.53,47.79
-Kab. Hulu Sungai Tengah,2025,44.51,45.5
-Kab. Hulu Sungai Utara,2024,52.29,48.505432
-Kab. Hulu Sungai Utara,2025,55.68,44.059948
-Kab. Kapuas,2024,30.67,35.168766
-Kab. Kapuas,2025,33.16,31.389444
-Kab. Kapuas Hulu,2024,27.94,29.868122
-Kab. Kapuas Hulu,2025,22.25,28.175943
-Kab. Katingan,2024,33.26,30.33606
-Kab. Katingan,2025,32.01,28.456547
-Kab. Kayong Utara,2024,34.25,28.145992
-Kab. Kayong Utara,2025,34.33,29.969946
-Kab. Ketapang,2024,36.56,32.5879
-Kab. Ketapang,2025,36.53,33.54687
-Kab. Kotabaru,2024,39.89,36.684116
-Kab. Kotabaru,2025,40.06,38.3719
-Kab. Kotawaringin Barat,2024,33.04,32.11109
-Kab. Kotawaringin Barat,2025,38.06,32.810013
-Kab. Kotawaringin Timur,2024,32.46,30.065351
-Kab. Kotawaringin Timur,2025,33.51,29.078022
-Kab. Kubu Raya,2024,27.11,30.288187
-Kab. Kubu Raya,2025,30.11,29.699657
-Kab. Kutai Barat,2024,30.01,29.577328
-Kab. Kutai Barat,2025,30.61,30.755198
-Kab. Kutai Kartanegara,2024,40.93,39.133278
-Kab. Kutai Kartanegara,2025,42.18,31.850237
-Kab. Kutai Timur,2024,36.78,35.398285
-Kab. Kutai Timur,2025,36.12,34.36993
-Kab. Lamandau,2024,27.61,26.174927
-Kab. Lamandau,2025,29.76,27.660692
-Kab. Landak,2024,31.09,31.483662
-Kab. Landak,2025,27.89,29.838022
-Kab. Mahakam Ulu,2024,24.07,32.29854
-Kab. Mahakam Ulu,2025,36.36,31.318731
-Kab. Malinau,2024,37.51,38.73606
-Kab. Malinau,2025,41.47,33.659035
-Kab. Melawi,2024,27.11,27.975912
-Kab. Melawi,2025,21.75,27.468756
-Kab. Mempawah,2024,35.2,31.56257
-Kab. Mempawah,2025,33.77,33.824047
-Kab. Murung Raya,2024,16.94,18.494102
-Kab. Murung Raya,2025,12.54,19.319742
-Kab. Nunukan,2024,36.31,39.00136
-Kab. Nunukan,2025,36.57,34.196888
-Kota Palangka Raya,2024,31.9,31.39174
-Kota Palangka Raya,2025,37.5,27.630398
-Kab. Paser,2024,46.63,38.101974
-Kab. Paser,2025,46.34,35.36174
-Kab. Penajam Paser Utara,2024,36.37,32.78613
-Kab. Penajam Paser Utara,2025,35.06,30.96134
-Kota Pontianak,2024,27.86,29.92022
-Kota Pontianak,2025,33.01,28.69014
-Kab. Pulang Pisau,2024,38.7,30.922089
-Kab. Pulang Pisau,2025,40.87,30.345997
-Kota Samarinda,2024,42.44,38.813313
-Kota Samarinda,2025,41.42,32.585686
-Kab. Sambas,2024,30.45,27.924494
-Kab. Sambas,2025,30.03,26.680475
-Kab. Sanggau,2024,25.64,25.31843
-Kab. Sanggau,2025,22.76,26.711006
-Kab. Sekadau,2024,31.8,29.863554
-Kab. Sekadau,2025,27.04,32.92225
-Kab. Seruyan,2024,30.08,25.684492
-Kab. Seruyan,2025,27.6,26.408215
-Kota Singkawang,2024,36.39,31.81512
-Kota Singkawang,2025,32.71,32.82928
-Kab. Sintang,2024,28.29,27.70944
-Kab. Sintang,2025,22.12,30.961485
-Kab. Sukamara,2024,28.55,27.474606
-Kab. Sukamara,2025,38.03,28.919313
-Kab. Tabalong,2024,47.29,41.711136
-Kab. Tabalong,2025,47.68,39.746964
-Kab. Tana Tidung,2024,32.42,34.588913
-Kab. Tana Tidung,2025,33.88,31.1188
-Kab. Tanah Bumbu,2024,40.26,38.996666
-Kab. Tanah Bumbu,2025,42.5,38.856014
-Kab. Tanah Laut,2024,42.73,37.49218
-Kab. Tanah Laut,2025,40.92,37.97106
-Kab. Tapin,2024,41.46,40.865868
-Kab. Tapin,2025,42.43,40.270576
-Kota Tarakan,2024,32.0,32.523304
-Kota Tarakan,2025,31.45,32.72525
+kabupaten_kota,nama_wilayah_bersih,tahun,actual,prediction_xgb
+Kab. Aceh Barat,kab. aceh barat,2024,54.82,46.72213
+Kab. Aceh Barat,kab. aceh barat,2025,53.53,51.36357
+Kab. Aceh Barat Daya,kab. aceh barat daya,2024,55.15,54.137527
+Kab. Aceh Barat Daya,kab. aceh barat daya,2025,66.77,55.376797
+Kab. Aceh Besar,kab. aceh besar,2024,51.82,46.552723
+Kab. Aceh Besar,kab. aceh besar,2025,55.36,53.808483
+Kab. Aceh Jaya,kab. aceh jaya,2024,53.86,40.396236
+Kab. Aceh Jaya,kab. aceh jaya,2025,60.33,46.03934
+Kab. Aceh Selatan,kab. aceh selatan,2024,46.44,48.0191
+Kab. Aceh Selatan,kab. aceh selatan,2025,55.34,57.011673
+Kab. Aceh Singkil,kab. aceh singkil,2024,37.9,38.43491
+Kab. Aceh Singkil,kab. aceh singkil,2025,38.23,43.642723
+Kab. Aceh Tamiang,kab. aceh tamiang,2024,47.48,46.349365
+Kab. Aceh Tamiang,kab. aceh tamiang,2025,49.99,53.64986
+Kab. Aceh Tengah,kab. aceh tengah,2024,54.83,53.608456
+Kab. Aceh Tengah,kab. aceh tengah,2025,60.87,51.256954
+Kab. Aceh Tenggara,kab. aceh tenggara,2024,62.25,57.22035
+Kab. Aceh Tenggara,kab. aceh tenggara,2025,63.08,60.79059
+Kab. Aceh Timur,kab. aceh timur,2024,51.55,43.2661
+Kab. Aceh Timur,kab. aceh timur,2025,51.05,49.543327
+Kab. Aceh Utara,kab. aceh utara,2024,56.09,53.300327
+Kab. Aceh Utara,kab. aceh utara,2025,58.4,55.61049
+Kab. Agam,kab. agam,2024,48.39,49.83536
+Kab. Agam,kab. agam,2025,47.82,50.941574
+Kab. Alor,kab. alor,2024,30.45,32.18795
+Kab. Alor,kab. alor,2025,35.52,26.951435
+Kab. Asahan,kab. asahan,2024,59.56,48.214874
+Kab. Asahan,kab. asahan,2025,59.37,45.1788
+Badung,kab. badung,2024,69.3,59.42531
+Badung,kab. badung,2025,68.28,55.56479
+Kab. Balangan,kab. balangan,2024,36.24,37.92871
+Kab. Balangan,kab. balangan,2025,38.35,40.42065
+Kab. Bandung,kab. bandung,2024,64.33,54.5424
+Kab. Bandung,kab. bandung,2025,63.26,57.903248
+Kab. Bandung Barat,kab. bandung barat,2024,53.98,51.94873
+Kab. Bandung Barat,kab. bandung barat,2025,58.12,56.30083
+Kab. Banggai,kab. banggai,2024,41.12,42.18629
+Kab. Banggai,kab. banggai,2025,45.38,44.271843
+Kab. Banggai Kepulauan,kab. banggai kepulauan,2024,30.37,38.888187
+Kab. Banggai Kepulauan,kab. banggai kepulauan,2025,35.75,38.760536
+Kab. Banggai Laut,kab. banggai laut,2024,41.76,33.402554
+Kab. Banggai Laut,kab. banggai laut,2025,45.66,36.383186
+Kab. Bangka,kab. bangka,2024,26.56,22.564653
+Kab. Bangka,kab. bangka,2025,26.69,31.19905
+Kab. Bangka Barat,kab. bangka barat,2024,21.66,25.107521
+Kab. Bangka Barat,kab. bangka barat,2025,28.0,31.381025
+Kab. Bangka Selatan,kab. bangka selatan,2024,49.49,36.166138
+Kab. Bangka Selatan,kab. bangka selatan,2025,48.49,40.924416
+Kab. Bangka Tengah,kab. bangka tengah,2024,40.14,25.03104
+Kab. Bangka Tengah,kab. bangka tengah,2025,42.29,33.591854
+Kab. Bangkalan,kab. bangkalan,2024,47.82,53.001
+Kab. Bangkalan,kab. bangkalan,2025,47.71,54.198956
+Bangli,kab. bangli,2024,52.09,55.794724
+Bangli,kab. bangli,2025,49.57,48.15615
+Kab. Banjar,kab. banjar,2024,37.79,38.56508
+Kab. Banjar,kab. banjar,2025,38.2,36.97488
+Kab. Banjarnegara,kab. banjarnegara,2024,56.9,56.29558
+Kab. Banjarnegara,kab. banjarnegara,2025,54.53,53.26162
+Kab. Bantaeng,kab. bantaeng,2024,45.66,52.24758
+Kab. Bantaeng,kab. bantaeng,2025,54.47,51.575626
+Kab. Bantul,kab. bantul,2024,53.88,55.465107
+Kab. Bantul,kab. bantul,2025,54.18,52.521767
+Kab. Banyuasin,kab. banyuasin,2024,51.18,43.98807
+Kab. Banyuasin,kab. banyuasin,2025,51.14,47.773495
+Kab. Banyumas,kab. banyumas,2024,52.8,58.744606
+Kab. Banyumas,kab. banyumas,2025,53.74,53.830357
+Kab. Banyuwangi,kab. banyuwangi,2024,58.84,57.896114
+Kab. Banyuwangi,kab. banyuwangi,2025,59.97,56.768948
+Kab. Barito Kuala,kab. barito kuala,2024,37.36,35.988976
+Kab. Barito Kuala,kab. barito kuala,2025,35.49,41.250732
+Kab. Barito Selatan,kab. barito selatan,2024,35.49,30.273232
+Kab. Barito Selatan,kab. barito selatan,2025,31.27,26.239393
+Kab. Barito Timur,kab. barito timur,2024,34.9,27.4003
+Kab. Barito Timur,kab. barito timur,2025,38.17,27.139006
+Kab. Barito Utara,kab. barito utara,2024,23.79,23.060352
+Kab. Barito Utara,kab. barito utara,2025,25.69,25.574951
+Kab. Barru,kab. barru,2024,53.98,50.522644
+Kab. Barru,kab. barru,2025,59.13,52.58631
+Kab. Batang,kab. batang,2024,54.79,53.573227
+Kab. Batang,kab. batang,2025,51.33,52.938023
+Kab. Batang Hari,kab. batanghari,2024,37.85,36.882664
+Kab. Batang Hari,kab. batanghari,2025,41.19,43.381824
+Kab. Batubara,kab. batubara,2024,58.2,42.306465
+Kab. Batubara,kab. batubara,2025,58.26,48.932484
+Kab. Bekasi,kab. bekasi,2024,49.46,55.67338
+Kab. Bekasi,kab. bekasi,2025,51.28,56.237263
+Kab. Belitung,kab. belitung,2024,22.08,24.773508
+Kab. Belitung,kab. belitung,2025,23.23,24.201218
+Kab. Belitung Timur,kab. belitung timur,2024,25.91,24.496784
+Kab. Belitung Timur,kab. belitung timur,2025,29.1,26.237638
+Kab. Belu,kab. belu,2024,31.44,41.81233
+Kab. Belu,kab. belu,2025,44.88,44.32766
+Kab. Bener Meriah,kab. bener meriah,2024,48.93,53.439117
+Kab. Bener Meriah,kab. bener meriah,2025,51.81,53.015408
+Kab. Bengkalis,kab. bengkalis,2024,38.67,37.35706
+Kab. Bengkalis,kab. bengkalis,2025,40.09,40.746964
+Kab. Bengkayang,kab. bengkayang,2024,30.57,29.759624
+Kab. Bengkayang,kab. bengkayang,2025,28.32,32.41004
+Bengkulu Selatan,kab. bengkulu selatan,2024,45.0,44.64996
+Kab. Bengkulu Tengah,kab. bengkulu tengah,2024,36.0,45.69184
+Kab. Bengkulu Utara,kab. bengkulu utara,2024,44.0,44.474194
+Kab. Berau,kab. berau,2024,29.42,29.209309
+Kab. Berau,kab. berau,2025,38.24,29.32572
+Kab. Bima,kab. bima,2024,48.5,43.70927
+Kab. Bima,kab. bima,2025,48.12,45.724243
+Kab. Bintan,kab. bintan,2024,26.8,34.212868
+Kab. Bintan,kab. bintan,2025,30.44,34.079105
+Kab. Bireuen,kab. bireuen,2024,60.71,54.023388
+Kab. Bireuen,kab. bireuen,2025,57.91,55.601124
+Kab. Blitar,kab. blitar,2024,55.59,55.228912
+Kab. Blitar,kab. blitar,2025,64.65,56.572098
+Kab. Blora,kab. blora,2024,50.02,55.913567
+Kab. Blora,kab. blora,2025,50.57,60.795372
+Kab. Boalemo,kab. boalemo,2024,55.47,42.94944
+Kab. Boalemo,kab. boalemo,2025,56.33,46.17329
+Kab. Bogor,kab. bogor,2024,59.73,54.25389
+Kab. Bogor,kab. bogor,2025,58.15,54.08614
+Kab. Bojonegoro,kab. bojonegoro,2024,54.15,59.457542
+Kab. Bojonegoro,kab. bojonegoro,2025,54.72,55.69875
+Kab. Bolaang Mongondow,kab. bolaang mongondow,2024,47.38,42.927883
+Kab. Bolaang Mongondow,kab. bolaang mongondow,2025,45.27,44.270622
+Kab. Bolaang Mongondow Selatan,kab. bolaang mongondow selatan,2024,42.03,41.938744
+Kab. Bolaang Mongondow Selatan,kab. bolaang mongondow selatan,2025,40.91,41.15641
+Kab. Bolaang Mongondow Timur,kab. bolaang mongondow timur,2024,41.76,42.80782
+Kab. Bolaang Mongondow Timur,kab. bolaang mongondow timur,2025,41.54,43.947605
+Kab. Bolaang Mongondow Utara,kab. bolaang mongondow utara,2024,42.03,37.53005
+Kab. Bolaang Mongondow Utara,kab. bolaang mongondow utara,2025,39.09,42.42894
+Kab. Bombana,kab. bombana,2024,48.21,44.858902
+Kab. Bombana,kab. bombana,2025,47.7,45.513607
+Kab. Bondowoso,kab. bondowoso,2024,51.27,54.817295
+Kab. Bondowoso,kab. bondowoso,2025,49.69,54.757618
+Kab. Bone,kab. bone,2024,47.79,49.38485
+Kab. Bone,kab. bone,2025,48.66,49.522526
+Kab. Bone Bolango,kab. bone bolango,2024,54.39,47.78106
+Kab. Bone Bolango,kab. bone bolango,2025,61.23,50.678474
+Kab. Boyolali,kab. boyolali,2024,55.7,57.23581
+Kab. Boyolali,kab. boyolali,2025,55.12,59.817593
+Kab. Brebes,kab. brebes,2024,55.01,53.107586
+Kab. Brebes,kab. brebes,2025,51.71,55.58456
+Buleleng,kab. buleleng,2024,55.04,51.410114
+Buleleng,kab. buleleng,2025,53.93,53.77685
+Kab. Bulukumba,kab. bulukumba,2024,50.56,52.131165
+Kab. Bulukumba,kab. bulukumba,2025,52.23,51.68235
+Kab. Bulungan,kab. bulungan,2024,35.91,33.413757
+Kab. Bulungan,kab. bulungan,2025,36.35,32.092487
+Kab. Bungo,kab. bungo,2024,43.98,42.39698
+Kab. Bungo,kab. bungo,2025,44.22,41.605305
+Kab. Buol,kab. buol,2024,41.07,41.73133
+Kab. Buol,kab. buol,2025,36.23,39.256477
+Kab. Buru,kab. buru,2024,38.49,39.205692
+Kab. Buru,kab. buru,2025,40.55,39.733078
+Kab. Buton,kab. buton,2024,36.05,37.30319
+Kab. Buton,kab. buton,2025,40.36,36.07658
+Kab. Buton Selatan,kab. buton selatan,2024,33.69,28.082119
+Kab. Buton Selatan,kab. buton selatan,2025,26.45,31.930746
+Kab. Buton Tengah,kab. buton tengah,2024,29.48,26.452702
+Kab. Buton Tengah,kab. buton tengah,2025,38.01,32.21017
+Kab. Buton Utara,kab. buton utara,2024,32.14,33.09194
+Kab. Buton Utara,kab. buton utara,2025,33.55,36.743774
+Kab. Ciamis,kab. ciamis,2024,53.32,55.73934
+Kab. Ciamis,kab. ciamis,2025,56.58,56.18041
+Kab. Cianjur,kab. cianjur,2024,59.91,56.653793
+Kab. Cianjur,kab. cianjur,2025,58.24,55.26977
+Kab. Cilacap,kab. cilacap,2024,61.23,61.589325
+Kab. Cilacap,kab. cilacap,2025,60.26,58.637814
+Kab. Cirebon,kab. cirebon,2024,60.45,54.574085
+Kab. Cirebon,kab. cirebon,2025,60.56,55.903496
+Kab. Dairi,kab. dairi,2024,54.2,46.33678
+Kab. Dairi,kab. dairi,2025,52.5,52.360508
+Kab. Deli Serdang,kab. deli serdang,2024,62.44,52.404305
+Kab. Deli Serdang,kab. deli serdang,2025,59.66,53.24269
+Kab. Demak,kab. demak,2024,59.36,58.156708
+Kab. Demak,kab. demak,2025,58.34,59.214607
+Kab. Dharmasraya,kab. dharmasraya,2024,45.36,43.72724
+Kab. Dharmasraya,kab. dharmasraya,2025,49.39,45.571568
+Kab. Dompu,kab. dompu,2024,46.78,44.291576
+Kab. Dompu,kab. dompu,2025,50.66,46.04318
+Kab. Donggala,kab. donggala,2024,48.49,45.488224
+Kab. Donggala,kab. donggala,2025,49.12,45.204823
+Kab. Empat Lawang,kab. empat lawang,2024,49.12,45.098137
+Kab. Empat Lawang,kab. empat lawang,2025,48.79,47.55251
+Kab. Ende,kab. ende,2024,44.29,40.64559
+Kab. Ende,kab. ende,2025,43.23,43.27667
+Kab. Enrekang,kab. enrekang,2024,45.59,45.554035
+Kab. Enrekang,kab. enrekang,2025,49.65,48.701557
+Kab. Flores Timur,kab. flores timur,2024,20.36,35.437775
+Kab. Flores Timur,kab. flores timur,2025,22.88,32.98889
+Kab. Garut,kab. garut,2024,63.51,54.934868
+Kab. Garut,kab. garut,2025,59.09,56.444813
+Kab. Gayo Lues,kab. gayo lues,2024,51.46,54.20286
+Kab. Gayo Lues,kab. gayo lues,2025,49.2,54.121613
+Gianyar,kab. gianyar,2024,61.06,55.90092
+Gianyar,kab. gianyar,2025,61.71,55.901905
+Kab. Gorontalo,kab. gorontalo,2024,51.75,47.012974
+Kab. Gorontalo,kab. gorontalo,2025,54.92,49.5949
+Kab. Gorontalo Utara,kab. gorontalo utara,2024,41.92,43.508587
+Kab. Gorontalo Utara,kab. gorontalo utara,2025,45.67,47.344265
+Kab. Gowa,kab. gowa,2024,48.57,47.35576
+Kab. Gowa,kab. gowa,2025,47.64,49.157978
+Kab. Gresik,kab. gresik,2024,60.85,55.52937
+Kab. Gresik,kab. gresik,2025,60.58,61.14094
+Kab. Grobogan,kab. grobogan,2024,61.75,57.691017
+Kab. Grobogan,kab. grobogan,2025,59.37,58.85948
+Kab. Gunung Mas,kab. gunung mas,2024,27.65,31.123346
+Kab. Gunung Mas,kab. gunung mas,2025,20.51,27.532372
+Kab. Gunung Kidul,kab. gunungkidul,2024,37.61,48.793015
+Kab. Gunung Kidul,kab. gunungkidul,2025,47.32,45.61934
+Kab. Halmahera Barat,kab. halmahera barat,2024,32.58,33.14018
+Kab. Halmahera Barat,kab. halmahera barat,2025,29.16,33.3742
+Kab. Halmahera Selatan,kab. halmahera selatan,2024,29.72,29.188732
+Kab. Halmahera Selatan,kab. halmahera selatan,2025,35.21,35.22531
+Kab. Halmahera Tengah,kab. halmahera tengah,2024,32.9,35.07693
+Kab. Halmahera Tengah,kab. halmahera tengah,2025,36.86,37.83763
+Kab. Halmahera Timur,kab. halmahera timur,2024,29.4,38.55597
+Kab. Halmahera Timur,kab. halmahera timur,2025,30.3,39.63069
+Kab. Halmahera Utara,kab. halmahera utara,2024,43.17,32.41849
+Kab. Halmahera Utara,kab. halmahera utara,2025,41.62,34.94698
+Kab. Hulu Sungai Selatan,kab. hulu sungai selatan,2024,47.11,42.32645
+Kab. Hulu Sungai Selatan,kab. hulu sungai selatan,2025,47.26,43.459007
+Kab. Hulu Sungai Tengah,kab. hulu sungai tengah,2024,47.53,47.52927
+Kab. Hulu Sungai Tengah,kab. hulu sungai tengah,2025,44.51,44.90481
+Kab. Hulu Sungai Utara,kab. hulu sungai utara,2024,52.29,41.362583
+Kab. Hulu Sungai Utara,kab. hulu sungai utara,2025,55.68,40.457924
+Kab. Humbang Hasundutan,kab. humbang hasundutan,2024,43.89,47.22187
+Kab. Humbang Hasundutan,kab. humbang hasundutan,2025,44.96,45.928047
+Kab. Indragiri Hilir,kab. indragiri hilir,2024,35.97,40.90362
+Kab. Indragiri Hilir,kab. indragiri hilir,2025,34.79,41.70712
+Kab. Indragiri Hulu,kab. indragiri hulu,2024,42.46,36.512096
+Kab. Indragiri Hulu,kab. indragiri hulu,2025,37.41,38.589905
+Kab. Indramayu,kab. indramayu,2024,65.74,55.556282
+Kab. Indramayu,kab. indramayu,2025,66.11,58.65114
+Kab. Jember,kab. jember,2024,51.91,57.47192
+Kab. Jember,kab. jember,2025,50.17,54.872307
+Jembrana,kab. jembrana,2024,63.17,58.76584
+Jembrana,kab. jembrana,2025,65.35,54.256542
+Kab. Jeneponto,kab. jeneponto,2024,47.75,50.490448
+Kab. Jeneponto,kab. jeneponto,2025,48.91,52.663048
+Kab. Jepara,kab. jepara,2024,51.9,50.31106
+Kab. Jepara,kab. jepara,2025,49.92,51.193573
+Kab. Jombang,kab. jombang,2024,61.82,59.73237
+Kab. Jombang,kab. jombang,2025,61.9,59.446514
+Kab. Kampar,kab. kampar,2024,41.01,37.397903
+Kab. Kampar,kab. kampar,2025,36.94,38.68984
+Kab. Kapuas,kab. kapuas,2024,30.67,32.475506
+Kab. Kapuas,kab. kapuas,2025,33.16,29.201265
+Kab. Kapuas Hulu,kab. kapuas hulu,2024,27.94,29.677217
+Kab. Kapuas Hulu,kab. kapuas hulu,2025,22.25,30.285822
+Kab. Karanganyar,kab. karanganyar,2024,60.83,56.615612
+Kab. Karanganyar,kab. karanganyar,2025,58.91,55.99324
+Karang Asem,kab. karangasem,2024,60.1,55.808792
+Karang Asem,kab. karangasem,2025,62.91,53.62274
+Kab. Karawang,kab. karawang,2024,56.89,60.45788
+Kab. Karawang,kab. karawang,2025,59.06,58.166084
+Kab. Karo,kab. karo,2024,54.56,54.264294
+Kab. Karo,kab. karo,2025,57.8,54.291798
+Kab. Katingan,kab. katingan,2024,33.26,28.259651
+Kab. Katingan,kab. katingan,2025,32.01,29.07458
+Kab. Kaur,kab. kaur,2024,43.0,45.03753
+Kab. Kayong Utara,kab. kayong utara,2024,34.25,27.980053
+Kab. Kayong Utara,kab. kayong utara,2025,34.33,28.616749
+Kab. Kebumen,kab. kebumen,2024,51.78,57.314728
+Kab. Kebumen,kab. kebumen,2025,54.65,54.83531
+Kab. Kediri,kab. kediri,2024,57.08,55.228912
+Kab. Kediri,kab. kediri,2025,57.99,57.50639
+Kab. Kendal,kab. kendal,2024,59.98,54.298
+Kab. Kendal,kab. kendal,2025,54.33,53.024406
+Kab. Kepahiang,kab. kepahiang,2024,46.0,46.063564
+Kab. Kepulauan Anambas,kab. kepulauan anambas,2024,25.67,32.55686
+Kab. Kepulauan Anambas,kab. kepulauan anambas,2025,30.45,30.358715
+Kab. Kepulauan Mentawai,kab. kepulauan mentawai,2024,26.51,28.163752
+Kab. Kepulauan Mentawai,kab. kepulauan mentawai,2025,28.37,31.14713
+Kab. Kepulauan Meranti,kab. kepulauan meranti,2024,32.71,33.871796
+Kab. Kepulauan Meranti,kab. kepulauan meranti,2025,38.55,35.942085
+Kab. Kepulauan Selayar,kab. kepulauan selayar,2024,40.05,41.22747
+Kab. Kepulauan Selayar,kab. kepulauan selayar,2025,43.7,43.51175
+Kab. Kepulauan Sula,kab. kepulauan sula,2024,34.91,28.704374
+Kab. Kepulauan Sula,kab. kepulauan sula,2025,36.59,30.357746
+Kab. Kepulauan Tanimbar,kab. kepulauan tanimbar,2024,15.54,23.639524
+Kab. Kepulauan Tanimbar,kab. kepulauan tanimbar,2025,16.13,30.880463
+Kab. Kerinci,kab. kerinci,2024,53.14,48.99612
+Kab. Kerinci,kab. kerinci,2025,55.82,51.783604
+Kab. Ketapang,kab. ketapang,2024,36.56,30.168104
+Kab. Ketapang,kab. ketapang,2025,36.53,33.060123
+Kab. Klaten,kab. klaten,2024,56.23,56.44717
+Kab. Klaten,kab. klaten,2025,53.22,55.796253
+Klungkung,kab. klungkung,2024,62.35,58.755764
+Klungkung,kab. klungkung,2025,61.89,55.271343
+Kab. Kolaka,kab. kolaka,2024,40.91,43.843224
+Kab. Kolaka,kab. kolaka,2025,44.91,43.057877
+Kab. Kolaka Timur,kab. kolaka timur,2024,42.05,41.105175
+Kab. Kolaka Timur,kab. kolaka timur,2025,46.02,43.12053
+Kab. Kolaka Utara,kab. kolaka utara,2024,43.6,40.333385
+Kab. Kolaka Utara,kab. kolaka utara,2025,42.72,37.996944
+Kab. Konawe,kab. konawe,2024,44.38,44.58994
+Kab. Konawe,kab. konawe,2025,46.14,43.97528
+Kab. Konawe Kepulauan,kab. konawe kepulauan,2024,38.0,33.029713
+Kab. Konawe Kepulauan,kab. konawe kepulauan,2025,41.53,36.65998
+Kab. Konawe Selatan,kab. konawe selatan,2024,38.78,40.620907
+Kab. Konawe Selatan,kab. konawe selatan,2025,39.94,40.266838
+Kab. Konawe Utara,kab. konawe utara,2024,34.18,34.052906
+Kab. Konawe Utara,kab. konawe utara,2025,40.95,36.500957
+Kab. Kotabaru,kab. kotabaru,2024,39.89,39.54325
+Kab. Kotabaru,kab. kotabaru,2025,40.06,36.88693
+Kab. Kotawaringin Barat,kab. kotawaringin barat,2024,33.04,31.096235
+Kab. Kotawaringin Barat,kab. kotawaringin barat,2025,38.06,29.082796
+Kab. Kotawaringin Timur,kab. kotawaringin timur,2024,32.46,29.65942
+Kab. Kotawaringin Timur,kab. kotawaringin timur,2025,33.51,28.1711
+Kab. Kuantan Singingi,kab. kuantan singingi,2024,47.05,39.18355
+Kab. Kuantan Singingi,kab. kuantan singingi,2025,40.08,41.67003
+Kab. Kubu Raya,kab. kubu raya,2024,27.11,28.921919
+Kab. Kubu Raya,kab. kubu raya,2025,30.11,30.004934
+Kab. Kudus,kab. kudus,2024,58.68,56.527218
+Kab. Kudus,kab. kudus,2025,55.01,53.0742
+Kab. Kulon Progo,kab. kulonprogo,2024,54.19,55.82287
+Kab. Kulon Progo,kab. kulonprogo,2025,56.42,54.00162
+Kab. Kuningan,kab. kuningan,2024,53.81,50.95925
+Kab. Kuningan,kab. kuningan,2025,51.73,54.68212
+Kab. Kupang,kab. kupang,2024,50.4,38.16149
+Kab. Kupang,kab. kupang,2025,53.19,41.28489
+Kab. Kutai Barat,kab. kutai barat,2024,30.01,28.795904
+Kab. Kutai Barat,kab. kutai barat,2025,30.61,30.289206
+Kab. Kutai Kartanegara,kab. kutai kartanegara,2024,40.93,35.79187
+Kab. Kutai Kartanegara,kab. kutai kartanegara,2025,42.18,32.383324
+Kab. Kutai Timur,kab. kutai timur,2024,36.78,33.63439
+Kab. Kutai Timur,kab. kutai timur,2025,36.12,34.541023
+Kab. Labuhan Batu,kab. labuhanbatu,2024,52.54,43.991356
+Kab. Labuhan Batu,kab. labuhanbatu,2025,49.97,48.619
+Kab. Labuhanbatu Selatan,kab. labuhanbatu selatan,2024,41.29,34.70615
+Kab. Labuhanbatu Selatan,kab. labuhanbatu selatan,2025,44.27,41.799255
+Kab. Labuhanbatu Utara,kab. labuhanbatu utara,2024,45.36,41.428326
+Kab. Labuhanbatu Utara,kab. labuhanbatu utara,2025,47.14,49.34387
+Kab. Lahat,kab. lahat,2024,50.97,48.499657
+Kab. Lahat,kab. lahat,2025,53.65,48.824142
+Kab. Lamandau,kab. lamandau,2024,27.61,28.99029
+Kab. Lamandau,kab. lamandau,2025,29.76,25.934828
+Kab. Lamongan,kab. lamongan,2024,59.41,58.469246
+Kab. Lamongan,kab. lamongan,2025,57.68,59.289364
+Kab. Lampung Barat,kab. lampung barat,2024,47.03,46.49085
+Kab. Lampung Barat,kab. lampung barat,2025,51.36,48.646152
+Kab. Lampung Selatan,kab. lampung selatan,2024,54.91,49.72197
+Kab. Lampung Selatan,kab. lampung selatan,2025,60.63,51.028618
+Kab. Lampung Tengah,kab. lampung tengah,2024,57.01,49.45629
+Kab. Lampung Tengah,kab. lampung tengah,2025,56.98,51.9595
+Kab. Lampung Timur,kab. lampung timur,2024,51.72,50.378117
+Kab. Lampung Timur,kab. lampung timur,2025,53.68,52.699154
+Kab. Lampung Utara,kab. lampung utara,2024,41.86,42.445835
+Kab. Lampung Utara,kab. lampung utara,2025,45.28,50.08224
+Kab. Landak,kab. landak,2024,31.09,28.502813
+Kab. Landak,kab. landak,2025,27.89,27.697548
+Kab. Langkat,kab. langkat,2024,48.58,48.431053
+Kab. Langkat,kab. langkat,2025,49.43,54.922367
+Kab. Lebak,kab. lebak,2024,48.23,49.539696
+Kab. Lebak,kab. lebak,2025,47.62,53.93027
+Kab. Lebong,kab. lebong,2024,62.0,48.497826
+Kab. Lembata,kab. lembata,2024,29.34,36.697388
+Kab. Lembata,kab. lembata,2025,39.16,39.606335
+Kab. Lima Puluh Kota,kab. lima puluh kota,2024,43.58,49.869713
+Kab. Lima Puluh Kota,kab. lima puluh kota,2025,46.04,47.850254
+Kab. Lingga,kab. lingga,2024,27.77,36.195827
+Kab. Lingga,kab. lingga,2025,28.4,32.96328
+Kab. Lombok Barat,kab. lombok barat,2024,49.42,50.366585
+Kab. Lombok Barat,kab. lombok barat,2025,54.29,50.922962
+Kab. Lombok Tengah,kab. lombok tengah,2024,50.51,47.178
+Kab. Lombok Tengah,kab. lombok tengah,2025,53.8,51.74068
+Kab. Lombok Timur,kab. lombok timur,2024,53.66,50.683327
+Kab. Lombok Timur,kab. lombok timur,2025,53.34,54.76011
+Kab. Lombok Utara,kab. lombok utara,2024,60.78,53.389095
+Kab. Lombok Utara,kab. lombok utara,2025,60.75,53.6215
+Kab. Lumajang,kab. lumajang,2024,54.07,53.0987
+Kab. Lumajang,kab. lumajang,2025,55.92,54.7212
+Kab. Luwu,kab. luwu,2024,53.59,51.34643
+Kab. Luwu,kab. luwu,2025,55.15,50.045906
+Kab. Luwu Timur,kab. luwu timur,2024,58.02,51.212063
+Kab. Luwu Timur,kab. luwu timur,2025,62.79,51.542034
+Kab. Luwu Utara,kab. luwu utara,2024,54.19,48.28197
+Kab. Luwu Utara,kab. luwu utara,2025,54.5,48.60789
+Kab. Madiun,kab. madiun,2024,59.58,57.450157
+Kab. Madiun,kab. madiun,2025,57.98,56.62511
+Kab. Magelang,kab. magelang,2024,50.7,53.305485
+Kab. Magelang,kab. magelang,2025,50.36,54.34625
+Kab. Magetan,kab. magetan,2024,62.72,57.47614
+Kab. Magetan,kab. magetan,2025,61.14,56.08928
+Kab. Mahakam Ulu,kab. mahakam ulu,2024,24.07,31.937603
+Kab. Mahakam Ulu,kab. mahakam ulu,2025,36.36,25.100216
+Kab. Majalengka,kab. majalengka,2024,55.5,55.776047
+Kab. Majalengka,kab. majalengka,2025,55.18,56.39136
+Majene,kab. majene,2024,52.67,41.271896
+Majene,kab. majene,2025,51.44,36.03746
+Kab. Malaka,kab. malaka,2024,38.25,42.91511
+Kab. Malaka,kab. malaka,2025,48.99,42.420204
+Kab. Malang,kab. malang,2024,62.11,53.914623
+Kab. Malang,kab. malang,2025,64.53,57.116238
+Kab. Malinau,kab. malinau,2024,37.51,34.97604
+Kab. Malinau,kab. malinau,2025,41.47,31.718077
+Kab. Maluku Tengah,kab. maluku tengah,2024,40.8,37.2799
+Kab. Maluku Tengah,kab. maluku tengah,2025,47.08,38.016483
+Mamasa,kab. mamasa,2024,39.99,45.036385
+Mamasa,kab. mamasa,2025,41.43,43.602375
+Mamuju,kab. mamuju,2024,49.2,46.304447
+Mamuju,kab. mamuju,2025,51.58,42.392796
+Mamuju Tengah,kab. mamuju tengah,2024,47.09,48.17114
+Mamuju Tengah,kab. mamuju tengah,2025,49.65,45.982113
+Kab. Mandailing Natal,kab. mandailing natal,2024,42.24,45.81037
+Kab. Mandailing Natal,kab. mandailing natal,2025,40.93,47.651737
+Kab. Manggarai,kab. manggarai,2024,46.23,45.700634
+Kab. Manggarai,kab. manggarai,2025,50.83,47.069813
+Kab. Manggarai Barat,kab. manggarai barat,2024,44.75,45.929474
+Kab. Manggarai Barat,kab. manggarai barat,2025,50.11,45.1538
+Kab. Manggarai Timur,kab. manggarai timur,2024,46.0,45.833153
+Kab. Manggarai Timur,kab. manggarai timur,2025,43.48,46.929043
+Kab. Maros,kab. maros,2024,48.04,46.221764
+Kab. Maros,kab. maros,2025,47.34,46.08128
+Kab. Melawi,kab. melawi,2024,27.11,28.07246
+Kab. Melawi,kab. melawi,2025,21.75,27.69303
+Kab. Mempawah,kab. mempawah,2024,35.2,31.446674
+Kab. Mempawah,kab. mempawah,2025,33.77,32.457287
+Kab. Merangin,kab. merangin,2024,38.36,41.72594
+Kab. Merangin,kab. merangin,2025,39.8,42.91809
+Kab. Mesuji,kab. mesuji,2024,48.16,47.875893
+Kab. Mesuji,kab. mesuji,2025,54.44,52.617344
+Kab. Minahasa,kab. minahasa,2024,48.02,43.734005
+Kab. Minahasa,kab. minahasa,2025,47.73,43.94775
+Kab. Minahasa Selatan,kab. minahasa selatan,2024,41.31,41.62934
+Kab. Minahasa Selatan,kab. minahasa selatan,2025,40.2,42.554832
+Kab. Minahasa Tenggara,kab. minahasa tenggara,2024,43.61,40.77328
+Kab. Minahasa Tenggara,kab. minahasa tenggara,2025,46.83,40.54333
+Kab. Minahasa Utara,kab. minahasa utara,2024,38.58,41.962894
+Kab. Minahasa Utara,kab. minahasa utara,2025,37.5,42.301884
+Kab. Mojokerto,kab. mojokerto,2024,60.41,61.05819
+Kab. Mojokerto,kab. mojokerto,2025,60.37,58.9889
+Kab. Morowali,kab. morowali,2024,40.15,43.867847
+Kab. Morowali,kab. morowali,2025,43.59,44.92335
+Kab. Morowali Utara,kab. morowali utara,2024,41.61,44.434288
+Kab. Morowali Utara,kab. morowali utara,2025,46.87,43.860817
+Kab. Muara Enim,kab. muara enim,2024,51.11,45.01012
+Kab. Muara Enim,kab. muara enim,2025,53.87,50.262936
+Kab. Muaro Jambi,kab. muaro jambi,2024,33.73,36.568665
+Kab. Muaro Jambi,kab. muaro jambi,2025,37.18,40.191788
+Kab. Mukomuko,kab. mukomuko,2024,58.0,48.065838
+Kab. Muna,kab. muna,2024,31.34,33.772976
+Kab. Muna,kab. muna,2025,35.02,35.73466
+Kab. Muna Barat,kab. muna barat,2024,38.64,33.155277
+Kab. Muna Barat,kab. muna barat,2025,40.38,36.372204
+Kab. Murung Raya,kab. murung raya,2024,16.94,24.933998
+Kab. Murung Raya,kab. murung raya,2025,12.54,23.576372
+Kab. Musi Banyuasin,kab. musi banyuasin,2024,49.64,45.741703
+Kab. Musi Banyuasin,kab. musi banyuasin,2025,53.74,47.439137
+Kab. Musi Rawas,kab. musi rawas,2024,58.33,45.996742
+Kab. Musi Rawas,kab. musi rawas,2025,60.76,49.02678
+Kab. Musi Rawas Utara,kab. musi rawas utara,2024,39.19,41.74855
+Kab. Musi Rawas Utara,kab. musi rawas utara,2025,44.66,43.243793
+Kab. Nagan Raya,kab. nagan raya,2024,38.66,47.338024
+Kab. Nagan Raya,kab. nagan raya,2025,45.19,52.46022
+Kab. Nagekeo,kab. nagekeo,2024,50.72,36.83873
+Kab. Nagekeo,kab. nagekeo,2025,49.74,44.31916
+Kab. Natuna,kab. natuna,2024,26.8,31.686094
+Kab. Natuna,kab. natuna,2025,33.09,28.54596
+Kab. Ngada,kab. ngada,2024,49.25,40.054943
+Kab. Ngada,kab. ngada,2025,49.98,47.625443
+Kab. Nganjuk,kab. nganjuk,2024,58.11,58.83774
+Kab. Nganjuk,kab. nganjuk,2025,56.53,56.83926
+Kab. Ngawi,kab. ngawi,2024,62.21,60.60778
+Kab. Ngawi,kab. ngawi,2025,59.88,60.876663
+Kab. Nias,kab. nias,2024,45.32,40.64082
+Kab. Nias,kab. nias,2025,44.46,42.2657
+Kab. Nias Barat,kab. nias barat,2024,44.59,38.642082
+Kab. Nias Barat,kab. nias barat,2025,38.96,39.209057
+Kab. Nias Selatan,kab. nias selatan,2024,35.33,41.6299
+Kab. Nias Selatan,kab. nias selatan,2025,35.95,42.805313
+Kab. Nias Utara,kab. nias utara,2024,35.53,40.620754
+Kab. Nias Utara,kab. nias utara,2025,36.28,39.710873
+Kab. Nunukan,kab. nunukan,2024,36.31,38.375084
+Kab. Nunukan,kab. nunukan,2025,36.57,34.731117
+Kab. Ogan Ilir,kab. ogan ilir,2024,49.77,43.595505
+Kab. Ogan Ilir,kab. ogan ilir,2025,48.64,47.68794
+Kab. Ogan Komering Ilir,kab. ogan komering ilir,2024,59.17,46.755672
+Kab. Ogan Komering Ilir,kab. ogan komering ilir,2025,62.49,53.27652
+Kab. Ogan Komering Ulu,kab. ogan komering ulu,2024,46.94,41.426952
+Kab. Ogan Komering Ulu,kab. ogan komering ulu,2025,47.14,44.501255
+Kab. OKU Selatan,kab. oku selatan,2024,62.3,48.030396
+Kab. OKU Selatan,kab. oku selatan,2025,55.82,50.247623
+Kab. OKU Timur,kab. oku timur,2024,65.65,47.708504
+Kab. OKU Timur,kab. oku timur,2025,66.83,52.538696
+Kab. Pacitan,kab. pacitan,2024,47.7,54.361607
+Kab. Pacitan,kab. pacitan,2025,49.49,52.308685
+Kab. Padang Lawas,kab. padang lawas,2024,39.92,42.216785
+Kab. Padang Lawas,kab. padang lawas,2025,43.6,45.343006
+Kab. Padang Lawas Utara,kab. padang lawas utara,2024,39.57,44.841766
+Kab. Padang Lawas Utara,kab. padang lawas utara,2025,43.34,48.71708
+Kab. Padang Pariaman,kab. padang pariaman,2024,44.52,49.19024
+Kab. Padang Pariaman,kab. padang pariaman,2025,47.62,51.37081
+Kab. Pakpak Bharat,kab. pakpak bharat,2024,41.34,39.229004
+Kab. Pakpak Bharat,kab. pakpak bharat,2025,37.59,44.827435
+Kab. Pamekasan,kab. pamekasan,2024,51.69,48.24567
+Kab. Pamekasan,kab. pamekasan,2025,54.44,50.190395
+Kab. Pandeglang,kab. pandeglang,2024,53.52,51.306496
+Kab. Pandeglang,kab. pandeglang,2025,52.42,53.97141
+Kab. Pangandaran,kab. pangandaran,2024,48.98,54.363113
+Kab. Pangandaran,kab. pangandaran,2025,52.82,50.932503
+Kab. Pangkajene Dan Kepulauan,kab. pangkajene kepulauan,2024,41.41,45.010326
+Kab. Pangkajene Dan Kepulauan,kab. pangkajene kepulauan,2025,45.42,46.073025
+Kab. Parigi Moutong,kab. parigi moutong,2024,47.42,48.42572
+Kab. Parigi Moutong,kab. parigi moutong,2025,50.77,49.909245
+Kab. Pasaman,kab. pasaman,2024,44.04,47.331345
+Kab. Pasaman,kab. pasaman,2025,46.85,44.620502
+Kab. Pasaman Barat,kab. pasaman barat,2024,46.47,45.638405
+Kab. Pasaman Barat,kab. pasaman barat,2025,44.22,48.69766
+Pasangkayu,kab. pasangkayu,2024,52.72,43.406895
+Pasangkayu,kab. pasangkayu,2025,48.93,44.23216
+Kab. Paser,kab. paser,2024,46.63,35.20488
+Kab. Paser,kab. paser,2025,46.34,31.411226
+Kab. Pasuruan,kab. pasuruan,2024,54.29,52.70584
+Kab. Pasuruan,kab. pasuruan,2025,54.01,53.5558
+Kab. Pati,kab. pati,2024,54.63,56.77615
+Kab. Pati,kab. pati,2025,55.07,57.365967
+Kab. Pekalongan,kab. pekalongan,2024,55.02,53.96509
+Kab. Pekalongan,kab. pekalongan,2025,49.95,54.20858
+Kab. Pelalawan,kab. pelalawan,2024,39.74,38.19066
+Kab. Pelalawan,kab. pelalawan,2025,36.1,39.915836
+Kab. Pemalang,kab. pemalang,2024,57.07,52.442387
+Kab. Pemalang,kab. pemalang,2025,53.05,53.33397
+Kab. Penajam Paser Utara,kab. penajam paser utara,2024,36.37,33.23317
+Kab. Penajam Paser Utara,kab. penajam paser utara,2025,35.06,30.924286
+Kab. Penukal Abab Lematang Ilir,kab. penukal abab lematang ilir,2024,43.07,44.063324
+Kab. Penukal Abab Lematang Ilir,kab. penukal abab lematang ilir,2025,49.43,48.147205
+Kab. Pesawaran,kab. pesawaran,2024,52.91,47.566906
+Kab. Pesawaran,kab. pesawaran,2025,51.85,52.68433
+Kab. Pesisir Barat,kab. pesisir barat,2024,46.54,43.083763
+Kab. Pesisir Barat,kab. pesisir barat,2025,53.02,48.070896
+Kab. Pesisir Selatan,kab. pesisir selatan,2024,48.78,46.705727
+Kab. Pesisir Selatan,kab. pesisir selatan,2025,51.88,51.61534
+Kab. Pidie,kab. pidie,2024,62.62,58.214672
+Kab. Pidie,kab. pidie,2025,61.99,57.564842
+Kab. Pidie Jaya,kab. pidie jaya,2024,67.7,57.678276
+Kab. Pidie Jaya,kab. pidie jaya,2025,71.86,57.635246
+Kab. Pinrang,kab. pinrang,2024,61.07,54.550526
+Kab. Pinrang,kab. pinrang,2025,61.59,57.788483
+Kab. Pohuwato,kab. pohuwato,2024,45.33,46.865135
+Kab. Pohuwato,kab. pohuwato,2025,40.13,50.96085
+Polewali Mandar,kab. polewali mandar,2024,55.21,54.049847
+Polewali Mandar,kab. polewali mandar,2025,57.85,53.91476
+Kab. Ponorogo,kab. ponorogo,2024,59.82,57.540848
+Kab. Ponorogo,kab. ponorogo,2025,58.8,56.160656
+Kab. Poso,kab. poso,2024,36.85,45.183907
+Kab. Poso,kab. poso,2025,41.59,45.18192
+Kab. Pringsewu,kab. pringsewu,2024,63.53,48.320908
+Kab. Pringsewu,kab. pringsewu,2025,62.21,53.485615
+Kab. Probolinggo,kab. probolinggo,2024,53.53,53.222847
+Kab. Probolinggo,kab. probolinggo,2025,53.08,53.0003
+Kab. Pulang Pisau,kab. pulang pisau,2024,38.7,32.696163
+Kab. Pulang Pisau,kab. pulang pisau,2025,40.87,28.89845
+Kab. Pulau Morotai,kab. pulau morotai,2024,40.13,32.706585
+Kab. Pulau Morotai,kab. pulau morotai,2025,38.04,35.079605
+Kab. Purbalingga,kab. purbalingga,2024,54.7,56.226814
+Kab. Purbalingga,kab. purbalingga,2025,52.81,52.42257
+Kab. Purwakarta,kab. purwakarta,2024,58.9,53.581818
+Kab. Purwakarta,kab. purwakarta,2025,56.42,54.619705
+Kab. Purworejo,kab. purworejo,2024,53.87,53.9758
+Kab. Purworejo,kab. purworejo,2025,55.64,55.431686
+Kab. Rejang Lebong,kab. rejang lebong,2024,47.0,45.987705
+Kab. Rembang,kab. rembang,2024,48.98,49.9443
+Kab. Rembang,kab. rembang,2025,49.92,51.867157
+Kab. Rokan Hilir,kab. rokan hilir,2024,44.35,41.71183
+Kab. Rokan Hilir,kab. rokan hilir,2025,43.85,44.87804
+Kab. Rokan Hulu,kab. rokan hulu,2024,43.78,37.997356
+Kab. Rokan Hulu,kab. rokan hulu,2025,36.37,40.18327
+Kab. Rote Ndao,kab. rote ndao,2024,38.89,40.612537
+Kab. Rote Ndao,kab. rote ndao,2025,42.84,42.46569
+Kab. Sabu Raijua,kab. sabu raijua,2024,38.54,42.809616
+Kab. Sabu Raijua,kab. sabu raijua,2025,52.96,45.640526
+Kab. Sambas,kab. sambas,2024,30.45,28.80825
+Kab. Sambas,kab. sambas,2025,30.03,34.66545
+Kab. Samosir,kab. samosir,2024,59.97,46.801834
+Kab. Samosir,kab. samosir,2025,60.59,49.460495
+Kab. Sampang,kab. sampang,2024,44.13,49.95833
+Kab. Sampang,kab. sampang,2025,44.86,49.42683
+Kab. Sanggau,kab. sanggau,2024,25.64,28.758886
+Kab. Sanggau,kab. sanggau,2025,22.76,29.714493
+Kab. Kepulauan Sangihe,kab. sangihe,2024,43.03,37.22456
+Kab. Kepulauan Sangihe,kab. sangihe,2025,37.4,38.375652
+Kab. Sarolangun,kab. sarolangun,2024,41.16,41.42442
+Kab. Sarolangun,kab. sarolangun,2025,39.84,38.97838
+Kab. Sekadau,kab. sekadau,2024,31.8,28.771112
+Kab. Sekadau,kab. sekadau,2025,27.04,30.76688
+Kab. Seluma,kab. seluma,2024,44.0,42.12399
+Kab. Semarang,kab. semarang,2024,59.64,54.464916
+Kab. Semarang,kab. semarang,2025,55.91,53.350525
+Kab. Seram Bagian Barat,kab. seram bagian barat,2024,32.29,32.48396
+Kab. Seram Bagian Barat,kab. seram bagian barat,2025,42.14,37.75293
+Kab. Seram Bagian Timur,kab. seram bagian timur,2024,32.99,36.3416
+Kab. Seram Bagian Timur,kab. seram bagian timur,2025,34.71,36.17911
+Kab. Serang,kab. serang,2024,53.84,51.765247
+Kab. Serang,kab. serang,2025,52.8,51.299206
+Kab. Serdang Bedagai,kab. serdang bedagai,2024,65.17,52.343548
+Kab. Serdang Bedagai,kab. serdang bedagai,2025,64.59,53.491035
+Kab. Seruyan,kab. seruyan,2024,30.08,27.862555
+Kab. Seruyan,kab. seruyan,2025,27.6,26.872522
+Kab. Siak,kab. siak,2024,44.15,42.201942
+Kab. Siak,kab. siak,2025,43.1,41.767044
+Kab. Sidenreng Rappang,kab. sidenreng rappang,2024,51.75,50.13437
+Kab. Sidenreng Rappang,kab. sidenreng rappang,2025,60.04,54.960575
+Kab. Sidoarjo,kab. sidoarjo,2024,65.1,61.26494
+Kab. Sidoarjo,kab. sidoarjo,2025,60.57,59.38317
+Kab. Sigi,kab. sigi,2024,47.09,46.340187
+Kab. Sigi,kab. sigi,2025,43.44,48.01154
+Kab. Sijunjung,kab. sijunjung,2024,38.56,38.697376
+Kab. Sijunjung,kab. sijunjung,2025,40.82,40.494015
+Kab. Sikka,kab. sikka,2024,37.08,32.943726
+Kab. Sikka,kab. sikka,2025,41.75,34.55047
+Kab. Simalungun,kab. simalungun,2024,57.42,45.07077
+Kab. Simalungun,kab. simalungun,2025,59.04,50.649895
+Kab. Simeulue,kab. simeulue,2024,34.22,32.070847
+Kab. Simeulue,kab. simeulue,2025,33.07,33.31
+Kab. Sinjai,kab. sinjai,2024,46.8,50.535374
+Kab. Sinjai,kab. sinjai,2025,49.1,48.13189
+Kab. Sintang,kab. sintang,2024,28.29,28.649466
+Kab. Sintang,kab. sintang,2025,22.12,30.594555
+Kab. Situbondo,kab. situbondo,2024,54.2,49.29985
+Kab. Situbondo,kab. situbondo,2025,53.47,49.385967
+Kab. Sleman,kab. sleman,2024,49.43,50.423378
+Kab. Sleman,kab. sleman,2025,50.53,48.180347
+Kab. Solok,kab. solok,2024,47.28,50.53249
+Kab. Solok,kab. solok,2025,53.42,52.402264
+Kab. Solok Selatan,kab. solok selatan,2024,38.31,42.367752
+Kab. Solok Selatan,kab. solok selatan,2025,42.74,44.12165
+Kab. Soppeng,kab. soppeng,2024,53.36,53.82945
+Kab. Soppeng,kab. soppeng,2025,52.65,51.979115
+Kab. Sragen,kab. sragen,2024,65.56,61.404797
+Kab. Sragen,kab. sragen,2025,65.8,62.06598
+Kab. Subang,kab. subang,2024,59.12,60.45788
+Kab. Subang,kab. subang,2025,59.4,58.166084
+Kab. Sukabumi,kab. sukabumi,2024,57.2,53.064796
+Kab. Sukabumi,kab. sukabumi,2025,53.89,55.41609
+Kab. Sukamara,kab. sukamara,2024,28.55,26.628109
+Kab. Sukamara,kab. sukamara,2025,38.03,27.009119
+Kab. Sukoharjo,kab. sukoharjo,2024,75.32,55.539566
+Kab. Sukoharjo,kab. sukoharjo,2025,66.81,57.867718
+Kab. Sumba Barat,kab. sumba barat,2024,36.82,36.451088
+Kab. Sumba Barat,kab. sumba barat,2025,44.3,32.966766
+Kab. Sumba Barat Daya,kab. sumba barat daya,2024,30.21,33.39571
+Kab. Sumba Barat Daya,kab. sumba barat daya,2025,32.01,32.20231
+Kab. Sumba Tengah,kab. sumba tengah,2024,42.71,35.405
+Kab. Sumba Tengah,kab. sumba tengah,2025,44.93,30.673105
+Kab. Sumba Timur,kab. sumba timur,2024,36.57,32.14009
+Kab. Sumba Timur,kab. sumba timur,2025,41.13,40.17968
+Kab. Sumbawa,kab. sumbawa,2024,55.32,47.851765
+Kab. Sumbawa,kab. sumbawa,2025,54.03,51.890026
+Kab. Sumbawa Barat,kab. sumbawa barat,2024,48.99,55.028137
+Kab. Sumbawa Barat,kab. sumbawa barat,2025,52.7,51.76628
+Kab. Sumedang,kab. sumedang,2024,55.0,52.908653
+Kab. Sumedang,kab. sumedang,2025,53.45,55.452354
+Kab. Sumenep,kab. sumenep,2024,51.55,49.304794
+Kab. Sumenep,kab. sumenep,2025,52.96,50.48834
+Kab. Tabalong,kab. tabalong,2024,47.29,42.06605
+Kab. Tabalong,kab. tabalong,2025,47.68,40.584618
+Tabanan,kab. tabanan,2024,60.66,55.983234
+Tabanan,kab. tabanan,2025,58.84,54.00628
+Kab. Takalar,kab. takalar,2024,41.89,47.360252
+Kab. Takalar,kab. takalar,2025,42.93,45.586113
+Kab. Kepulauan Talaud,kab. talaud,2024,44.48,35.257523
+Kab. Kepulauan Talaud,kab. talaud,2025,42.94,36.96137
+Kab. Tana Tidung,kab. tana tidung,2024,32.42,32.36068
+Kab. Tana Tidung,kab. tana tidung,2025,33.88,29.763067
+Kab. Tana Toraja,kab. tana toraja,2024,45.28,44.927235
+Kab. Tana Toraja,kab. tana toraja,2025,45.81,45.249763
+Kab. Tanah Bumbu,kab. tanah bumbu,2024,40.26,39.838173
+Kab. Tanah Bumbu,kab. tanah bumbu,2025,42.5,40.833576
+Kab. Tanah Datar,kab. tanah datar,2024,47.87,51.922913
+Kab. Tanah Datar,kab. tanah datar,2025,51.52,47.83779
+Kab. Tanah Laut,kab. tanah laut,2024,42.73,39.61154
+Kab. Tanah Laut,kab. tanah laut,2025,40.92,39.20494
+Kab. Tangerang,kab. tangerang,2024,51.17,49.66113
+Kab. Tangerang,kab. tangerang,2025,52.8,52.46409
+Kab. Tanggamus,kab. tanggamus,2024,56.39,52.133698
+Kab. Tanggamus,kab. tanggamus,2025,57.15,51.894817
+Kab. Tanjung Jabung Barat,kab. tanjung jabung barat,2024,46.81,37.915462
+Kab. Tanjung Jabung Barat,kab. tanjung jabung barat,2025,46.31,43.145588
+Kab. Tanjung Jabung Timur,kab. tanjung jabung timur,2024,38.88,36.78901
+Kab. Tanjung Jabung Timur,kab. tanjung jabung timur,2025,42.54,43.37472
+Kab. Tapanuli Selatan,kab. tapanuli selatan,2024,49.19,46.403763
+Kab. Tapanuli Selatan,kab. tapanuli selatan,2025,48.72,47.59609
+Tapanuli Tengah,kab. tapanuli tengah,2024,39.5,43.24012
+Tapanuli Tengah,kab. tapanuli tengah,2025,37.36,51.980667
+Kab. Tapanuli Utara,kab. tapanuli utara,2024,51.29,46.960365
+Kab. Tapanuli Utara,kab. tapanuli utara,2025,51.78,51.48783
+Kab. Tapin,kab. tapin,2024,41.46,39.60609
+Kab. Tapin,kab. tapin,2025,42.43,38.38767
+Kab. Tasikmalaya,kab. tasikmalaya,2024,53.29,55.23972
+Kab. Tasikmalaya,kab. tasikmalaya,2025,53.82,55.837776
+Kab. Tebo,kab. tebo,2024,46.24,41.3011
+Kab. Tebo,kab. tebo,2025,42.06,44.235054
+Kab. Tegal,kab. tegal,2024,53.39,52.761925
+Kab. Tegal,kab. tegal,2025,49.51,53.66107
+Kab. Temanggung,kab. temanggung,2024,64.76,56.69029
+Kab. Temanggung,kab. temanggung,2025,58.64,55.895016
+Kab. Timor Tengah Selatan,kab. timor tengah selatan,2024,44.39,44.238625
+Kab. Timor Tengah Selatan,kab. timor tengah selatan,2025,44.17,45.202126
+Kab. Timor Tengah Utara,kab. timor tengah utara,2024,37.58,44.65478
+Kab. Timor Tengah Utara,kab. timor tengah utara,2025,49.55,44.452053
+Kab. Toba Samosir,kab. toba,2024,60.14,46.019547
+Kab. Toba Samosir,kab. toba,2025,60.47,51.514576
+Kab. Tojo Una-Una,kab. tojo una-una,2024,44.08,43.458553
+Kab. Tojo Una-Una,kab. tojo una-una,2025,44.87,43.23536
+Kab. Toli-Toli,kab. toli-toli,2024,46.98,46.45728
+Kab. Toli-Toli,kab. toli-toli,2025,47.17,44.875404
+Kab. Toraja Utara,kab. toraja utara,2024,50.12,45.489616
+Kab. Toraja Utara,kab. toraja utara,2025,46.16,45.183846
+Kab. Trenggalek,kab. trenggalek,2024,57.49,53.564266
+Kab. Trenggalek,kab. trenggalek,2025,56.55,54.782967
+Kab. Tuban,kab. tuban,2024,62.11,59.19383
+Kab. Tuban,kab. tuban,2025,59.59,55.82006
+Kab. Tulangbawang,kab. tulangbawang,2024,49.79,46.28722
+Kab. Tulangbawang,kab. tulangbawang,2025,50.74,50.964195
+Kab. Tulang Bawang Barat,kab. tulangbawang barat,2024,40.56,45.139233
+Kab. Tulang Bawang Barat,kab. tulangbawang barat,2025,46.38,51.52628
+Kab. Tulungagung,kab. tulungagung,2024,62.87,55.737236
+Kab. Tulungagung,kab. tulungagung,2025,61.15,54.69454
+Kab. Wajo,kab. wajo,2024,47.66,46.946835
+Kab. Wajo,kab. wajo,2025,50.85,50.38697
+Kab. Way Kanan,kab. way kanan,2024,47.89,47.425575
+Kab. Way Kanan,kab. way kanan,2025,46.34,50.0144
+Kab. Wonogiri,kab. wonogiri,2024,52.76,55.11519
+Kab. Wonogiri,kab. wonogiri,2025,52.29,52.921104
+Kab. Wonosobo,kab. wonosobo,2024,49.84,57.503117
+Kab. Wonosobo,kab. wonosobo,2025,49.81,55.24113
+Kota Balikpapan,kota balikpapan,2024,25.34,35.314945
+Kota Balikpapan,kota balikpapan,2025,39.36,31.711584
+Kota Banda Aceh,kota banda aceh,2024,50.79,39.80556
+Kota Banda Aceh,kota banda aceh,2025,50.68,52.133694
+Kota Bandar Lampung,kota bandar lampung,2024,51.2,46.7097
+Kota Bandar Lampung,kota bandar lampung,2025,53.43,51.444283
+Kota Bandung,kota bandung,2024,69.59,61.039673
+Kota Bandung,kota bandung,2025,69.06,65.35829
+Kota Banjar,kota banjar,2024,60.46,55.35836
+Kota Banjar,kota banjar,2025,59.78,52.59444
+Kota Banjarbaru,kota banjarbaru,2024,31.17,35.625126
+Kota Banjarbaru,kota banjarbaru,2025,29.78,34.287308
+Kota Banjarmasin,kota banjarmasin,2024,42.57,36.873333
+Kota Banjarmasin,kota banjarmasin,2025,43.87,37.38686
+Kota Batu,kota batu,2024,72.72,62.31729
+Kota Batu,kota batu,2025,58.99,62.416534
+Kota Baubau,kota baubau,2024,48.22,40.640728
+Kota Baubau,kota baubau,2025,48.95,40.581135
+Kota Bekasi,kota bekasi,2024,42.86,50.12422
+Kota Bekasi,kota bekasi,2025,48.81,45.864635
+Kota Bengkulu,kota bengkulu,2024,49.0,49.624424
+Kota Bima,kota bima,2024,53.89,48.719074
+Kota Bima,kota bima,2025,52.87,48.737484
+Kota Binjai,kota binjai,2024,44.97,48.28034
+Kota Binjai,kota binjai,2025,47.53,52.12126
+Kota Bitung,kota bitung,2024,44.31,40.914413
+Kota Bitung,kota bitung,2025,42.84,41.712654
+Kota Blitar,kota blitar,2024,64.84,58.44262
+Kota Blitar,kota blitar,2025,72.5,61.55273
+Kota Bogor,kota bogor,2024,53.05,53.293987
+Kota Bogor,kota bogor,2025,57.23,52.631866
+Kota Bukittinggi,kota bukittinggi,2024,63.11,56.131668
+Kota Bukittinggi,kota bukittinggi,2025,63.48,59.179413
+Kota Cilegon,kota cilegon,2024,53.07,50.3271
+Kota Cilegon,kota cilegon,2025,50.57,49.8775
+Kota Cimahi,kota cimahi,2024,61.38,54.19107
+Kota Cimahi,kota cimahi,2025,59.33,58.9447
+Kota Cirebon,kota cirebon,2024,63.94,48.96361
+Kota Cirebon,kota cirebon,2025,54.05,47.28951
+Kota Denpasar,kota denpasar,2024,68.1,68.92417
+Kota Denpasar,kota denpasar,2025,69.19,67.46939
+Kota Depok,kota depok,2024,56.24,50.984127
+Kota Depok,kota depok,2025,53.69,52.52907
+Kota Dumai,kota dumai,2024,23.56,38.255695
+Kota Dumai,kota dumai,2025,32.74,38.32507
+Kota Gorontalo,kota gorontalo,2024,46.11,48.48749
+Kota Gorontalo,kota gorontalo,2025,50.83,52.518852
+Kota Gunungsitoli,kota gunungsitoli,2024,44.86,50.010303
+Kota Gunungsitoli,kota gunungsitoli,2025,49.94,48.44566
+Kota Jakarta Barat,kota jakarta barat,2024,51.65,52.906723
+Kota Jakarta Barat,kota jakarta barat,2025,54.8,48.284126
+Kota Jakarta Timur,kota jakarta timur,2024,56.05,52.906723
+Kota Jakarta Timur,kota jakarta timur,2025,54.81,50.756577
+Kota Jakarta Utara,kota jakarta utara,2024,45.33,48.32414
+Kota Jakarta Utara,kota jakarta utara,2025,54.2,46.457554
+Kota Jambi,kota jambi,2024,41.85,38.098846
+Kota Jambi,kota jambi,2025,46.12,42.25637
+Kota Kediri,kota kediri,2024,63.19,56.841686
+Kota Kediri,kota kediri,2025,59.02,60.879185
+Kota Kendari,kota kendari,2024,39.01,41.208473
+Kota Kendari,kota kendari,2025,40.73,41.156624
+Kota Kotamobagu,kota kotamobagu,2024,47.75,44.18355
+Kota Kotamobagu,kota kotamobagu,2025,44.33,46.725197
+Kota Kupang,kota kupang,2024,50.5,46.402008
+Kota Kupang,kota kupang,2025,63.0,47.00339
+Kota Langsa,kota langsa,2024,50.38,37.480373
+Kota Langsa,kota langsa,2025,49.93,46.60036
+Kota Lhokseumawe,kota lhokseumawe,2024,43.17,51.217678
+Kota Lhokseumawe,kota lhokseumawe,2025,51.76,52.992134
+Kota Lubuklinggau,kota lubuklinggau,2024,52.26,52.99031
+Kota Lubuklinggau,kota lubuklinggau,2025,54.48,51.661762
+Kota Madiun,kota madiun,2024,57.58,58.267933
+Kota Madiun,kota madiun,2025,57.06,56.20017
+Kota Magelang,kota magelang,2024,50.23,57.054405
+Kota Magelang,kota magelang,2025,48.76,54.020813
+Kota Makassar,kota makassar,2024,56.97,46.802773
+Kota Makassar,kota makassar,2025,50.19,45.331585
+Kota Malang,kota malang,2024,65.16,59.955124
+Kota Malang,kota malang,2025,63.35,60.7795
+Kota Manado,kota manado,2024,42.24,38.3679
+Kota Manado,kota manado,2025,36.69,40.240856
+Kota Mataram,kota mataram,2024,66.14,59.131004
+Kota Mataram,kota mataram,2025,62.65,59.081863
+Kota Medan,kota medan,2024,60.29,49.31065
+Kota Medan,kota medan,2025,59.1,52.946915
+Kota Metro,kota metro,2024,57.05,45.072563
+Kota Metro,kota metro,2025,63.37,50.952023
+Kota Mojokerto,kota mojokerto,2024,60.4,56.84169
+Kota Mojokerto,kota mojokerto,2025,58.93,57.21321
+Kota Padang,kota padang,2024,48.61,48.80479
+Kota Padang,kota padang,2025,50.41,50.917744
+Kota Padang Panjang,kota padang panjang,2024,58.86,55.838856
+Kota Padang Panjang,kota padang panjang,2025,69.25,59.15445
+Kota Padangsidimpuan,kota padangsidimpuan,2024,53.16,50.829506
+Kota Padangsidimpuan,kota padangsidimpuan,2025,57.13,50.9568
+Kota Pagar Alam,kota pagar alam,2024,50.77,51.958706
+Kota Pagar Alam,kota pagar alam,2025,54.0,55.51594
+Kota Palangka Raya,kota palangka raya,2024,31.9,33.022644
+Kota Palangka Raya,kota palangka raya,2025,37.5,32.68233
+Kota Palembang,kota palembang,2024,45.58,43.406685
+Kota Palembang,kota palembang,2025,53.0,44.851833
+Kota Palopo,kota palopo,2024,50.68,58.674534
+Kota Palopo,kota palopo,2025,56.83,57.971306
+Kota Palu,kota palu,2024,47.01,45.414665
+Kota Palu,kota palu,2025,44.55,44.06795
+Kota Parepare,kota parepare,2024,51.91,44.480915
+Kota Parepare,kota parepare,2025,49.89,50.651157
+Kota Pariaman,kota pariaman,2024,48.89,49.968212
+Kota Pariaman,kota pariaman,2025,43.84,51.538815
+Kota Pasuruan,kota pasuruan,2024,55.02,54.075203
+Kota Pasuruan,kota pasuruan,2025,55.12,55.742924
+Kota Payakumbuh,kota payakumbuh,2024,47.57,48.281242
+Kota Payakumbuh,kota payakumbuh,2025,48.84,49.18854
+Kota Pekalongan,kota pekalongan,2024,64.75,53.36108
+Kota Pekalongan,kota pekalongan,2025,63.14,50.704155
+Kota Pekanbaru,kota pekanbaru,2024,41.11,38.57874
+Kota Pekanbaru,kota pekanbaru,2025,26.32,39.22117
+Kota Pematang Siantar,kota pematangsiantar,2024,58.23,47.652683
+Kota Pematang Siantar,kota pematangsiantar,2025,60.53,54.01815
+Kota Pontianak,kota pontianak,2024,27.86,31.784504
+Kota Pontianak,kota pontianak,2025,33.01,33.298622
+Kota Prabumulih,kota prabumulih,2024,38.55,42.718826
+Kota Prabumulih,kota prabumulih,2025,44.79,43.096542
+Kota Probolinggo,kota probolinggo,2024,61.06,54.081997
+Kota Probolinggo,kota probolinggo,2025,63.2,56.763477
+Kota Sabang,kota sabang,2025,44.87,47.251083
+Kota Salatiga,kota salatiga,2024,66.44,58.6021
+Kota Salatiga,kota salatiga,2025,60.5,57.663097
+Kota Samarinda,kota samarinda,2024,42.44,37.473186
+Kota Samarinda,kota samarinda,2025,41.42,32.421116
+Kota Sawahlunto,kota sawahlunto,2024,54.55,54.83234
+Kota Sawahlunto,kota sawahlunto,2025,56.01,55.866142
+Kota Semarang,kota semarang,2024,55.04,54.844593
+Kota Semarang,kota semarang,2025,56.15,49.377518
+Kota Serang,kota serang,2024,53.49,51.554256
+Kota Serang,kota serang,2025,53.17,52.28551
+Kota Singkawang,kota singkawang,2024,36.39,34.01909
+Kota Singkawang,kota singkawang,2025,32.71,32.533623
+Kota Solok,kota solok,2024,56.78,57.591022
+Kota Solok,kota solok,2025,58.28,55.43371
+Kota Subulussalam,kota subulussalam,2024,43.78,51.741493
+Kota Subulussalam,kota subulussalam,2025,49.63,51.85916
+Kota Sukabumi,kota sukabumi,2024,58.58,60.1541
+Kota Sukabumi,kota sukabumi,2025,58.19,58.281677
+Kota Sungai Penuh,kota sungai penuh,2024,61.81,53.40573
+Kota Sungai Penuh,kota sungai penuh,2025,62.56,55.95679
+Kota Surabaya,kota surabaya,2024,55.54,57.455486
+Kota Surabaya,kota surabaya,2025,57.64,58.05133
+Kota Surakarta,kota surakarta,2024,57.59,60.150257
+Kota Surakarta,kota surakarta,2025,58.29,54.942635
+Kota Tangerang,kota tangerang,2024,62.17,51.01945
+Kota Tangerang,kota tangerang,2025,62.36,47.618935
+Kota Tanjung Balai,kota tanjungbalai,2024,48.48,48.35639
+Kota Tanjung Balai,kota tanjungbalai,2025,47.13,47.640564
+Kota Tarakan,kota tarakan,2024,32.0,33.03874
+Kota Tarakan,kota tarakan,2025,31.45,30.036503
+Kota Tasikmalaya,kota tasikmalaya,2024,54.19,53.62576
+Kota Tasikmalaya,kota tasikmalaya,2025,59.25,52.519257
+Kota Tebing Tinggi,kota tebing tinggi,2024,58.68,51.92814
+Kota Tebing Tinggi,kota tebing tinggi,2025,61.91,54.10094
+Kota Tegal,kota tegal,2024,60.84,53.308434
+Kota Tegal,kota tegal,2025,53.94,49.17609
+Kota Tidore Kepulauan,kota tidore kepulauan,2024,36.48,34.305687
+Kota Tidore Kepulauan,kota tidore kepulauan,2025,46.0,34.69174
+Kota Tomohon,kota tomohon,2024,59.38,44.907463
+Kota Tomohon,kota tomohon,2025,59.01,47.328915
+Kota Yogyakarta,kota yogyakarta,2024,51.0,54.43747
+Kota Yogyakarta,kota yogyakarta,2025,53.96,51.148724

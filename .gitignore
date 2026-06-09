@@ -10,3 +10,4 @@ dataset/output_pipeline/50_feature_output/
 dataset/results/
 *.txt
 feature_section-engineering.ipynb
+converted_model.ipynb

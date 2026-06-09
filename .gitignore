@@ -1,10 +1,12 @@
 dataset/*
-!dataset/artifacts/
+dataset/*.csv
+dataset/artifacts/
 dataset/artifacts/50_feature/
 !dataset/eda_outputs/
+dataset/eda_outputs/*.csv
 !dataset/models/
-!dataset/output_pipeline/
+dataset/output_pipeline/
 dataset/output_pipeline/50_feature_output/
-!dataset/results/
+dataset/results/
 *.txt
 feature_section-engineering.ipynb

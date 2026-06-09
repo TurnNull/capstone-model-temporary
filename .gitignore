@@ -1,13 +1,11 @@
 dataset/*
 dataset/*.csv
 !dataset/dataset_produksi_padi.csv
-dataset/artifacts/
-dataset/artifacts/50_feature/
 dataset/eda_outputs/*.csv
 !dataset/models/
-dataset/output_pipeline/
-dataset/output_pipeline/50_feature_output/
+!dataset/output_pipeline/
 dataset/results/
 *.txt
 feature_section-engineering.ipynb
 converted_model.ipynb
+readme.md

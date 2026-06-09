@@ -1,7 +1,7 @@
 dataset/*
 !dataset/artifacts/
 dataset/artifacts/50_feature/
-dataset/eda_outputs/
+!dataset/eda_outputs/
 !dataset/models/
 !dataset/output_pipeline/
 dataset/output_pipeline/50_feature_output/

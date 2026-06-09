@@ -3,7 +3,6 @@ dataset/*.csv
 !dataset/dataset_produksi_padi.csv
 dataset/artifacts/
 dataset/artifacts/50_feature/
-!dataset/eda_outputs/
 dataset/eda_outputs/*.csv
 !dataset/models/
 dataset/output_pipeline/

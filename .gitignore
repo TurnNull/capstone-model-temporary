@@ -2,6 +2,7 @@ dataset/*
 dataset/*.csv
 !dataset/dataset_produksi_padi.csv
 dataset/eda_outputs/*.csv
+!dataset/eda_outputs/*.png
 !dataset/models/
 !dataset/output_pipeline/
 dataset/results/

@@ -3,6 +3,7 @@
 Proyek ini menggunakan model Linear Regression, Random Forest, dan XGBoost untuk memprediksi hasil panen padi berdasarkan data cuaca.
 
 ## Struktur Folder
+```
 ├── dataset/
 │   ├── eda_outputs/               # Hasil pembersihan dan feature engineering (file .csv dan .png) 
 │   ├── models/                    # Hasil hasil training baseline model (.joblib)
@@ -17,8 +18,9 @@ Proyek ini menggunakan model Linear Regression, Random Forest, dan XGBoost untuk
 ├── random_forest.ipynb            # File koding random forest
 ├── xgboost.ipynb                  # File koding xgboost
 ├── requirements.txt       # Daftar library yang diperlukan
-└── README.md              # Dokumentasi proyek
-
+└── README.md              # Dokumentasi proyek             
+```
+    
 ## Cara Menjalankan
 Instruksi menjalankan kode:
 1. Clone repositori ini.

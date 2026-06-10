@@ -7,4 +7,3 @@ dataset/eda_outputs/*.csv
 !dataset/models/
 !dataset/output_pipeline/
 *.txt
-readme.md

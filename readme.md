@@ -9,7 +9,7 @@ This project utilizes Linear Regression, Random Forest, and XGBoost models to pr
 # 📂 Data Pipeline
 | Stage | Process | Description |
 | :--- | :--- | :--- |
-| **1. Acquisition** | Data Source | Data gathered from [BPS Indonesia](https://drive.google.com/drive/folders/1pkZYGE-BFCTxWRFDj6iGC-lc8rEWunfz?usp=drive_link) [NASA POWES](https://drive.google.com/drive/folders/1cQ_a_sCR0P-Sl6VrhRNRoKtOZndseEIz?usp=drive_link). |
+| **1. Acquisition** | Data Source | Data gathered from [BPS Indonesia](https://drive.google.com/drive/folders/1pkZYGE-BFCTxWRFDj6iGC-lc8rEWunfz?usp=drive_link) and [NASA POWES](https://drive.google.com/drive/folders/1cQ_a_sCR0P-Sl6VrhRNRoKtOZndseEIz?usp=drive_link). |
 | **2. Cleaning** | Data Preprocessing  | Handling missing values, removing outliers, and normalizing column names. |
 | **3. Engineering** | Feature Extraction | Transforming variables to enhance the predictive power of the model. |
 | **4. Training** | Model Development | Training multiple models (LR, RF, XGB) with 5-fold cross-validation. |

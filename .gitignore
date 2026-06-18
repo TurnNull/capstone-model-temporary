@@ -1,9 +1,10 @@
 dataset/*
 dataset/*.csv
 !dataset/dataset_produksi_padi.csv
-!dataset/eda_outputs/
-!dataset/eda_outputs/final_merged_data.csv
+dataset/eda_outputs/
 !dataset/eda_outputs/*.png
+dataset/eda_outputs/bps_cleaned.csv
+dataset/eda_outputs/nasa_cleaned.csv
 !dataset/models/
 !dataset/output_pipeline/
 *.txt

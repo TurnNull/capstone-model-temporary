@@ -101,11 +101,11 @@ All exploration and modeling processes are located in the notebooks/ folder. You
 ### Model Performance Summary
 The following table provides a comparison of the evaluation metrics (MAE, RMSE, and $R^2$) on the validation data:
 | Model | Train MAE | Val MAE | Val RMSE | Val $R^2$ |
-| :--- | :--- | :--- | :--- | :--- |
-| **Linear Regression** | 18.419,16 | 18.484,60 | 32.594,62 | 0,9770 |
-| **Random Forest** | 4.937,11 | 13.242,58 | 27.241,72 | 0,9840 |
-| **XGBoost** | 8.187,66 | 13.704,89 | 25.687,45 | 0,9857 |
+|:------|----------:|---------:|----------:|----------:|
+| Linear Regression | 18,641.41 | 18,693.48 | 32,919.78 | 0.9766 |
+| Random Forest | **4,945.94** | **13,679.02** | 28,843.17 | 0.9816 |
+| XGBoost | 8,787.52 | 14,073.29 | **27,708.92** | **0.9829** |
 
 ### Analysis
-- Top Performing Model: XGBoost was selected as the primary model, achieving the lowest RMSE (25.68) and the highest $R^2$ score (0.9857) on the validation data, which demonstrates excellent stability and predictive accuracy.
-- Overfitting Assessment: While the Random Forest model showed a significant performance gap between the training and validation sets indicating overfitting the XGBoost model demonstrated more consistent results, proving to be more robust and better suited for making predictions on new, unseen data.
+- **Top Performing Model:** XGBoost was selected as the primary model, achieving the **lowest validation RMSE (27,708.92)** and the **highest validation $R^2$ score (0.9829)** among all evaluated models. These results indicate excellent predictive accuracy and strong generalization capability.
+- **Model Generalization:** Both Random Forest and XGBoost demonstrated strong predictive performance on the validation data. However, XGBoost exhibited a slightly better balance between training and validation performance, achieving the highest validation $R^2$ and the lowest RMSE. Although Random Forest obtained the lowest validation MAE, it showed a slightly larger gap between training and validation metrics, suggesting mild overfitting compared to XGBoost.

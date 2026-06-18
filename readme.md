@@ -15,7 +15,44 @@ This project utilizes Linear Regression, Random Forest, and XGBoost models to pr
 | **4. Training** | Model Development | Training multiple models (LR, RF, XGB) with 5-fold cross-validation. |
 | **5. Evaluation** | Performance Analysis | Generating metrics, logs, and artifacts (.joblib) for deployment. |
 
-# ⚙️ Models
+# ⚙️ Architecture
+```mermaid
+graph TD
+    subgraph Data_Source ["Data Acquisition Layer"]
+        A[Data BPS: Crop Production]
+        B[Data NASA: Agrometeorology]
+    end
+
+    subgraph Preprocessing ["Data Preprocessing Layer"]
+        C[Data Cleaning & Merging]
+        D[Feature Engineering]
+        E[StandardScaler]
+    end
+
+    subgraph Modeling ["Modeling Layer"]
+        F[K-Means Clustering]
+    end
+
+    subgraph Output ["Output & Interpretation Layer"]
+        G[Cluster Profiling: High-Yield, Developing, At-Risk]
+        H[Visualization & Dashboards]
+    end
+
+    A --> C
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> H
+```
+1. Data Acquisition Layer: This layer serves as the foundation, integrating heterogeneous data from two primary sources: BPS (Statistics Indonesia) for crop production metrics and NASA for historical agrometeorological data (temperature and rainfall).
+
+2. Data Preprocessing Layer: To ensure model robustness, this layer handles data cleaning (addressing missing values and normalizing region naming conventions) and feature engineering. We apply StandardScaler to normalize feature scales, preventing bias in the clustering algorithm.
+
+3. Modeling Layer: The core of the system utilizes the K-Means Clustering algorithm. This layer executes centroid-based grouping to identify distinct agricultural profiles across Kalimantan's districts based on their productivity and environmental challenges.
+
+4. Output & Interpretation Layer: The final layer interprets the mathematical clusters into strategic agricultural categories (e.g., High-Yield, Developing, and At-Risk), which are then visualized via comprehensive dashboards to support evidence-based decision-making.
 
 ### Dataset Overview & Splitting
 The dataset consists of 2,529 total entries, which were split to ensure robust model training and evaluation:
@@ -26,6 +63,7 @@ The dataset consists of 2,529 total entries, which were split to ensure robust m
 
 This project utilizes three supervised learning algorithms to predict rice yield. The models were evaluated using 5-fold cross-validation to ensure reliable performance and to minimize the risk of overfitting.
 
+### models
 | Model | Purpose |
 | :--- | :--- |
 | Linear Regression | Baseline Prediction |

@@ -18,41 +18,40 @@ This project utilizes Linear Regression, Random Forest, and XGBoost models to pr
 # ⚙️ Architecture
 ```mermaid
 graph TD
-    subgraph Data_Source ["Data Acquisition Layer"]
-        A[Data BPS: Crop Production]
-        B[Data NASA: Agrometeorology]
+    subgraph Data_Source ["Data Acquisition"]
+        A[Data BPS: Produksi Padi] --> C[Cleaning & Merging]
+        B[Data NASA: Agroklimat] --> C
     end
 
-    subgraph Preprocessing ["Data Preprocessing Layer"]
-        C[Data Cleaning & Merging]
-        D[Feature Engineering]
-        E[StandardScaler]
+    subgraph Pipeline ["Data Pipeline"]
+        C --> D[Feature Engineering]
+        D --> E[StandardScaler]
     end
 
-    subgraph Modeling ["Modeling Layer"]
-        F[K-Means Clustering]
+    subgraph Modeling ["1. Prediction Phase"]
+        E --> F[Model Comparison: LinReg, RF, XGBoost]
+        F --> G[Final Model: XGBoost]
+        G --> H[Productivity Prediction]
     end
 
-    subgraph Output ["Output & Interpretation Layer"]
-        G[Cluster Profiling: High-Yield, Developing, At-Risk]
-        H[Visualization & Dashboards]
+    subgraph Clustering ["2. Clustering Phase"]
+        H --> I[K-Means Clustering on Predictions]
+        I --> J[Cluster Profiling: High-Yield, Developing, At-Risk]
     end
-
-    A --> C
-    B --> C
-    C --> D
-    D --> E
-    E --> F
-    F --> G
-    G --> H
+    
+    subgraph Output ["Output"]
+        J --> K[Visualization & Dashboard]
+    end
 ```
-1. Data Acquisition Layer: This layer serves as the foundation, integrating heterogeneous data from two primary sources: BPS (Statistics Indonesia) for crop production metrics and NASA for historical agrometeorological data (temperature and rainfall).
+1. **Data Acquisition Layer:** This layer serves as the foundation, integrating heterogeneous data from two primary sources: BPS (Statistics Indonesia) for crop production metrics and NASA for historical agrometeorological data (temperature and rainfall).
 
-2. Data Preprocessing Layer: To ensure model robustness, this layer handles data cleaning (addressing missing values and normalizing region naming conventions) and feature engineering. We apply StandardScaler to normalize feature scales, preventing bias in the clustering algorithm.
+2. **Data Preprocessing Layer:** To ensure model robustness, this layer handles data cleaning and feature engineering. We apply StandardScaler to normalize data scales, creating a consistent baseline for our machine learning models.
 
-3. Modeling Layer: The core of the system utilizes the K-Means Clustering algorithm. This layer executes centroid-based grouping to identify distinct agricultural profiles across Kalimantan's districts based on their productivity and environmental challenges.
+3. **Prediction Phase:** In this phase, we conduct a multi-model comparison (Linear Regression, Random Forest, and XGBoost). XGBoost is established as the final model to predict agricultural productivity based on environmental variables.
 
-4. Output & Interpretation Layer: The final layer interprets the mathematical clusters into strategic agricultural categories (e.g., High-Yield, Developing, and At-Risk), which are then visualized via comprehensive dashboards to support evidence-based decision-making.
+4. **Clustering Phase:** We utilize the K-Means algorithm to group the predicted productivity outcomes into distinct regional profiles (e.g., High-Yield, Developing, and At-Risk). This allows us to categorize districts based on their predicted potential rather than just historical averages.
+
+5. **Output & Insight Layer:** The final layer combines predictive results with cluster insights, visualized through dashboards to support evidence-based decision-making.
 
 ### Dataset Overview & Splitting
 The dataset consists of 2,529 total entries, which were split to ensure robust model training and evaluation:
